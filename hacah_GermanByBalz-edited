@@ -340,21 +340,25 @@ whitecards:
 - text: Pterodactylus-Eier.
 - text: Ein Gehirntumor.
 - text: Cards against Humanity.
-- text: 
-- text: 
-- text: 
-- text: 
-
+- text: Lady Gaga.
+- text: Der Milchmann.
+- text: Vulgarität.
 
 
 blackcards:
+
+- text: TSA-Richtlinien verbieten nun _ in Flugzeugen.
+- text: Es ist eine Schande, dass Kinder heutzutage in _ hineingezogen werden.
+- text: In 1.000 Jahren, wenn Bargeld nur eine entfernte Erinnerung ist, wird _ unsere Währung sein.
+- text: Im Profi-Fußball wurde _ verboten, weil es Spielern unfaire Vorteile verschaffte.
+- text: Was ist Batmans heimliches Laster?
+- text: Neues von J.K. Rowling: Harry Potter und die Kammer des _.
 
 
 - text: Lorem ipsum _ dolor sit _1.2 amet
   font: 8
   draw: 2
   pick: 4
-- text: 
 - text: 
 
 ...
