@@ -10,7 +10,9 @@ white-cards:
   - text: Die DDR.
   - text: Bayern.
   - text: |
-          "Niemand hat die Absicht, eine Mauer zu bauen".
+          "Niemand hat die
+          Absicht, eine Mauer
+          zu bauen".
   - text: Unbefleckte Empfängnis.
   - text: WhatsApp-Gruppen.
   - text: Kollateralschaden.
@@ -51,12 +53,16 @@ white-cards:
   - text: Vegetarische Grillorgien.
 
 black-cards:
-  - text: _ verhält sich zu _ wie _ zu _.
+  - text: |
+          _4 verhält
+          sich zu _4 
+          wie _8
+          zu _8.
     draw: 3
     pick: 4
-  - text: Der Solidaritätszuschlag sollte besser für _ verwendet werden.
+  - text: Der Solidaritätszuschlag sollte besser für _4 verwendet werden.
 
-  - text: Lorem ipsum _1 dolor sit _1.2 amet
+  - text: Lorem ipsum _1 dolor sit _1.5 amet
     font: 11
     draw: 2
     pick: 4
