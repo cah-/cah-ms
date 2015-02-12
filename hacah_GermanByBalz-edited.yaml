@@ -348,7 +348,8 @@ black-cards:
 - text: In 1.000 Jahren, wenn Bargeld nur eine entfernte Erinnerung ist, wird _ unsere Währung sein.
 - text: Im Profi-Fußball wurde _ verboten, weil es Spielern unfaire Vorteile verschaffte.
 - text: Was ist Batmans heimliches Laster?
-- text: Neues von J.K. Rowling: Harry Potter und die Kammer des _.
+- text: |
+        Neues von J.K. Rowling: Harry Potter und die Kammer des _.
 
 - text: Lorem ipsum _1 dolor sit _1.2 amet
   font: 11
