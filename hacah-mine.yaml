@@ -1,73 +1,62 @@
 ---
+white-cards:
+  - text: Sandra Bullock.
+  - text: Dr. Sheldon Cooper.
+  - text: Penny.
+  - text: Die Muselmanen.
+  - text: Takeshi's Castle.
+  - text: Katzenbabys.
+  - text: Hentais
+  - text: Die DDR.
+  - text: Bayern.
+  - text: "Niemand hat die Absicht, eine Mauer zu bauen".
+  - text: Unbefleckte Empfängnis.
+  - text: WhatsApp-Gruppen.
+  - text: Kollateralschaden.
+  - text: Nippelwetter.
+  - text: Die längste Praline der Welt.
+  - text: Bond, James Bond.
+  - text: Waffen, viele Waffen.
+  - text: Death Metal.
+  - text: DER TOD.
+  - text: Pet Play.
+  - text: Darth Vaders Stimme.
+  - text: Frühstücksspeck.
+  - text: Rekursion.
+  - text: T-Rex.
+  - text: Public Disgrace.
+  - text: T-Systems.
+  - text: SAP.
+  - text: Fefes Blog.
+  - text: Karl-Theodor zu Guttenberg.
+  - text: Horst Seehofer.
+  - text: Das BKA.
+  - text: Jesus.
+  - text: Galileo.
+  - text: Francesco Schettino.
+  - text: Malaysia-Airlines-Flüge buchen.
+  - text: Sicherheitsrisiken.
+  - text: Sony-Hacks.
+  - text: Vorratsdatenspeicherung.
+  - text: Geheimdienste.
+  - text: Google und Facebook.
+  - text: Energy-Drinks.
+  - text: Die Tea-Party.
+  - text: Captain Jack Sparrow.
+  - text: Indiana Jones.
+  - text: Der "War on Terror".
+  - text: Eine Tarnkappe.
+  - text: Mikrowellen.
+  - text: Vegetarische Grillorgien.
 
-whitecards:
+black-cards:
+  - text: _ verhält sich zu _ wie _ zu _.
+    draw: 3
+    pick: 4
+  - text: Der Solidaritätszuschlag sollte besser für _ verwendet werden.
 
-- text: Sandra Bullock.
-- text: Dr. Sheldon Cooper.
-- text: Penny.
-- text: Die Muselmanen.
-- text: Takeshi's Castle.
-- text: Katzenbabys.
-- text: Hentais
-- text: Die DDR.
-- text: Bayern.
-- text: "Niemand hat die Absicht, eine Mauer zu bauen".
-- text: Unbefleckte Empfängnis.
-- text: WhatsApp-Gruppen.
-- text: Kollateralschaden.
-- text: Nippelwetter.
-- text: Die längste Praline der Welt.
-- text: Bond, James Bond.
-- text: Waffen, viele Waffen.
-- text: Death Metal.
-- text: DER TOD.
-- text: Pet Play.
-- text: Darth Vaders Stimme.
-- text: Frühstücksspeck.
-- text: Rekursion.
-- text: T-Rex.
-- text: Public Disgrace.
-- text: T-Systems.
-- text: SAP.
-- text: Fefes Blog.
-- text: Karl-Theodor zu Guttenberg.
-- text: Horst Seehofer.
-- text: Das BKA.
-- text: Jesus.
-- text: Galileo.
-- text: Francesco Schettino.
-- text: Malaysia-Airlines-Flüge buchen.
-- text: Sicherheitsrisiken.
-- text: Sony-Hacks.
-- text: Vorratsdatenspeicherung.
-- text: Geheimdienste.
-- text: Google und Facebook.
-- text: Energy-Drinks.
-- text: Die Tea-Party.
-- text: Captain Jack Sparrow.
-- text: Indiana Jones.
-- text: Der "War on Terror".
-- text: Eine Tarnkappe.
-- text: Mikrowellen.
-- text: Vegetarische Grillorgien.
-- text: 
-- text: 
-- text: 
-
-
-blackcards:
-
-- text: _ verhält sich zu _ wie _ zu _.
-  draw: 3
-  pick: 4
-- text: Der Solidaritätszuschlag sollte besser für _ verwendet werden.
-- text: 
-
-
-- text: Lorem ipsum _ dolor sit _1.2 amet
-  font: 8
-  draw: 2
-  pick: 4
-- text: 
-
+  - text: Lorem ipsum _1 dolor sit _1.2 amet
+    font: 11
+    draw: 2
+    pick: 4
 ...
