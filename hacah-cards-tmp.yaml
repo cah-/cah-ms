@@ -1,0 +1,24 @@
+---
+white-cards:
+  - text: Quotenneger.
+  - text: Nom, nom, nom.
+  - text: Kleinwüchsige siamesische Zwillinge, die einen Ziegenbock massieren.
+  - text: Hoaxes.
+  - text: Bonsai-Kitten.
+  - text: Das fliegende Spaghettimonster.
+  - text: Zeugen Jehovas.
+  - text: Kamasutra-Stellungen.
+  - text: 
+  - text: 
+
+black-cards:
+  - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _.
+  - text: Der neue Stephen-King-Roman: Friedhof der _.
+  - text: 
+  - text: 
+
+  - text: Lorem ipsum _1 dolor sit _1.5 amet
+    font: 11
+    draw: 2
+    pick: 4
+...
