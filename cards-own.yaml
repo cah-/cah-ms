@@ -15,11 +15,15 @@ white-cards:
           zu bauen".
 - text: Unbefleckte Empfängnis.
 - text: WhatsApp-Gruppen.
-- text: Kollateralschaden.
+- text: Kollateral-schaden.
 - text: Nippelwetter.
 - text: Die längste Praline der Welt.
-- text: Bond, James Bond.
-- text: Waffen, viele Waffen.
+- text: |
+        Bond,
+        James Bond.
+- text: |
+        Waffen,
+        viele Waffen.
 - text: Death Metal.
 - text: DER TOD.
 - text: Pet Play.
@@ -38,9 +42,9 @@ white-cards:
 - text: Galileo.
 - text: Francesco Schettino.
 - text: Malaysia-Airlines-Flüge buchen.
-- text: Sicherheitsrisiken.
+- text: Sicherheits-risiken.
 - text: Sony-Hacks.
-- text: Vorratsdatenspeicherung.
+- text: Vorratsdaten-speicherung.
 - text: Geheimdienste.
 - text: Google und Facebook.
 - text: Energy-Drinks.
@@ -61,7 +65,8 @@ white-cards:
 - text: Das fliegende Spaghettimonster.
 - text: Zeugen Jehovas.
 - text: Kamasutra-Stellungen.
-- text: 69.
+- text: |
+        69.
 - text: Dixie-Toiletten auf Heavy-Metal-Festivals.
 - text: Das Bedürfnis der Leute nach Pop.
 - text: Godzilla.
@@ -84,7 +89,7 @@ white-cards:
 - text: Ein Gummihuhn.
 - text: Murray, der sprechende Totenschädel.
 - text: Guybrush Threepwood.
-- text: Ein dreiköpfiger Affe1, direkt hinter dir!
+- text: Ein dreiköpfiger Affe, direkt hinter dir!
 - text: Schwarze Löcher in Gläsern.
 - text: Nach der Macht greifen.
 - text: Dirty Sanchez.
@@ -97,7 +102,7 @@ white-cards:
 - text: Explosionsartiger Durchfall.
 - text: Der Unreal-Tournament-Announcer.
 - text: Getragene Unterwäsche.
-- text: Damenwäscheträger.
+- text: Damenwäsche-träger.
 - text: Die U-Boot-Kontroverse.
 - text: Wolowitz' Pipibeutel.
 
