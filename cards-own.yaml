@@ -103,59 +103,63 @@ white-cards:
 
 black-cards:
 - text: |
-        _4 verhält
-        sich zu _4 
-        wie _8
-        zu _8.
+        _9 verhält
+        sich zu _9
+        wie _12
+        zu _13.
   draw: 3
   pick: 4
-- text: Der Solidaritätszuschlag sollte besser für _4 verwendet werden.
+- text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
 - text: |
-        1. _.
-        2. _.
+        1. _14.
+        2. _14.
         3. Profit!
-- text: Je suis _.
-- text: Ohne Pass an der Grenze. Jetzt hilft nur noch _.
+- text: Je suis _9.
+- text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
 - text: |
-        Der neue Stephen-King-Roman: Friedhof der _12.
-- text: Deine Mutter ist _.
-- text: Pissen mit Erektion ist wie _ mit _.
-- text: _. Challenge accepted!
-- text: _... untenrum.
+        Der neue Stephen-King-Roman:
+        Friedhof der _16.
+- text: Deine Mutter ist _16.
+- text: Pissen mit Erektion ist wie _16 mit _16.
+- text: _16. Challenge accepted!
+- text: _16 ... untenrum.
 - text: |
-        "Eyjafjallajökull" ist isländisch für _.
-- text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _.
-- text: _ ist eines der Weltwunder der Neuzeit.
-- text: _ hat als Kind Gute-Nacht-Geschichten über _ vorgelesen bekommen.
+        "Eyjafjallajökull" ist isländisch für _16.
+- text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _16.
+- text: _16 ist eines der Weltwunder der Neuzeit.
+- text: _11 hat als Kind Gute-Nacht-Geschichten über _18 vorgelesen bekommen.
+  font: 12
 - text: |
-        "Yellow Submarine" rückwärts abgespielt, klingt wie _.
-- text: _. Alles war gut.
-- text: Tausche Getreide gegen _.
+        "Yellow Submarine" rückwärts abgespielt, klingt wie _12.
+- text: _16. Alles war gut.
+- text: Tausche Getreide gegen _10.
 - text: |
-        "Hey Brain, was wollen wir heute Abend machen?". "Das gleiche wie jeden Abend, Pinky. _"
-- text: _ is on a killing spree.
-- text: _ is a lie.
+        "Hey Brain, was wollen wir heute Abend machen?" "Das gleiche wie jeden Abend, Pinky. _10."
+  font: 12
+- text: _16 is on a killing spree.
+- text: _16 is a lie.
 - text: |
-        Deutschland morgens um halb zehn: _.
-- text: _. Frauen und Kinder zuerst.
-- text: Mit einem 3D-Drucker würde ich als erstes _ herstellen.
-- text: 1001 _. Märchen über _.
+        Deutschland morgens um halb zehn: _16.
+- text: _16. Frauen und Kinder zuerst.
+- text: Mit einem 3D-Drucker würde ich als erstes _10 herstellen.
+- text: 1001 _11. Märchen über _16.
 - text: Womit wird alles besser?
-- text: Auf eine einsame Insel nehme ich _ mit.
-- text: _. Es ist immer das gleiche.
-- text: Zwei _, doppelt so gut!
-- text: All your _ are belong to us.
-- text: It's time to _ and chew bubble gum, and I'm all out of gum.
+- text: Auf eine einsame Insel nehme ich _16 mit.
+- text: _16. Es ist immer das gleiche.
+- text: Zwei _11, doppelt so gut!
+- text: All your _9 are belong to us.
+- text: It's time to _16 and chew bubble gum, and I'm all out of gum.
 - text: |
-        _: Die neue Doku-Soap auf RTL.
-- text: _. Du hättest nur zu fragen brauchen.
-- text: _ + _. Was könnte schiefgehen?!
-- text: Die Zombieapokalypse bricht aus und du hast nur ein Feuerzeug und _ bei dir,
-- text: Wie passend, du kämpfst wie _!
-- text: Ich habe den Schwertmeister besiegt. Mit _.
-- text: Go-Go-Gadget-o-_.
-- text: _ sind uns auf den Fersen und du willst _?
-- text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _.
-- text: Das gibt es nur in Japan. Automaten für _.
+        _16: Die neue Doku-Soap auf RTL.
+- text: _16. Du hättest nur zu fragen brauchen.
+- text: _7 + _7. Was könnte schiefgehen?!
+- text: Die Zombieapokalypse bricht aus und du hast nur ein Feuerzeug und _11 bei dir.
+  font: 12
+- text: Wie passend, du kämpfst wie _16!
+- text: Ich habe den Schwertmeister besiegt. Mit _16.
+- text: Go-Go-Gadget-o-_16.
+- text: _16 sind uns auf den Fersen und du willst _16?
+- text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _16.
+- text: Das gibt es nur in Japan. Automaten für _16.
 
 ...
