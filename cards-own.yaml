@@ -119,6 +119,7 @@ black-cards:
         1. _14.
         2. _14.
         3. Profit!
+  pick: 2
 - text: Je suis _9.
 - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
 - text: |
@@ -126,6 +127,7 @@ black-cards:
         Friedhof der _16.
 - text: Deine Mutter ist _16.
 - text: Pissen mit Erektion ist wie _16 mit _16.
+  pick: 2
 - text: _16. Challenge accepted!
 - text: _16 ... untenrum.
 - text: |
@@ -133,6 +135,7 @@ black-cards:
 - text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _16.
 - text: _16 ist eines der Weltwunder der Neuzeit.
 - text: _11 hat als Kind Gute-Nacht-Geschichten über _18 vorgelesen bekommen.
+  pick: 2
   font: 12
 - text: |
         "Yellow Submarine" rückwärts abgespielt, klingt wie _12.
@@ -148,6 +151,7 @@ black-cards:
 - text: _16. Frauen und Kinder zuerst.
 - text: Mit einem 3D-Drucker würde ich als erstes _10 herstellen.
 - text: 1001 _11. Märchen über _16.
+  pick: 2
 - text: Womit wird alles besser?
 - text: Auf eine einsame Insel nehme ich _16 mit.
 - text: _16. Es ist immer das gleiche.
@@ -158,12 +162,14 @@ black-cards:
         _16: Die neue Doku-Soap auf RTL.
 - text: _16. Du hättest nur zu fragen brauchen.
 - text: _7 + _7. Was könnte schiefgehen?!
+  pick: 2
 - text: Die Zombieapokalypse bricht aus und du hast nur ein Feuerzeug und _11 bei dir.
   font: 12
 - text: Wie passend, du kämpfst wie _16!
 - text: Ich habe den Schwertmeister besiegt. Mit _16.
 - text: Go-Go-Gadget-o-_16.
 - text: _16 sind uns auf den Fersen und du willst _16?
+  pick: 2
 - text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _16.
 - text: Das gibt es nur in Japan. Automaten für _16.
 
