@@ -79,32 +79,39 @@ white-cards:
 
 black-cards:
   - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _.
-  - text: Der neue Stephen-King-Roman: Friedhof der _.
+  - text: |
+          Der neue Stephen-King-Roman: Friedhof der _.
   - text: Deine Mutter ist _.
   - text: Pissen mit Erektion ist wie _ mit _.
   - text: _. Challenge accepted!
   - text: _... untenrum.
-  - text: "Eyjafjallajökull" ist isländisch für _.
+  - text: |
+          "Eyjafjallajökull" ist isländisch für _.
   - text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _.
   - text: _ ist eines der Weltwunder der Neuzeit.
   - text: _ hat als Kind Gute-Nacht-Geschichten über _ vorgelesen bekommen.
-  - text: "Yellow Submarine" rückwärts abgespielt, klingt wie _.
+  - text: |
+          "Yellow Submarine" rückwärts abgespielt, klingt wie _.
   - text: _. Alles war gut.
   - text: Tausche Getreide gegen _.
-  - text: "Hey Brain, was wollen wir heute Abend machen?". "Das gleiche wie jeden Abend, Pinky. _"
+  - text: |
+          "Hey Brain, was wollen wir heute Abend machen?". "Das gleiche wie jeden Abend, Pinky. _"
   - text: _ is on a killing spree.
   - text: _ is a lie.
-  - text: Deutschland morgens um halb zehn: _.
+  - text: |
+          Deutschland morgens um halb zehn: _.
   - text: _. Frauen und Kinder zuerst.
   - text: Mit einem 3D-Drucker würde ich als erstes _ herstellen.
-  - text: 1001 _. Märchen über _.
+  - text: |
+          1001 _. Märchen über _.
   - text: Womit wird alles besser?
   - text: Auf eine einsame Insel nehme ich _ mit.
   - text: _. Es ist immer das gleiche.
   - text: Zwei _, doppelt so gut!
   - text: All your _ are belong to us.
   - text: It's time to _ and chew bubble gum, and I'm all out of gum.
-  - text: _: Die neue Doku-Soap auf RTL.
+  - text: |
+          _: Die neue Doku-Soap auf RTL.
   - text: _. Du hättest nur zu fragen brauchen.
   - text: _ + _. Was könnte schiefgehen?!
   - text: Die Zombieapokalypse bricht aus und du hast nur ein Feuerzeug und _ bei dir,
