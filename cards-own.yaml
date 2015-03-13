@@ -1,177 +1,179 @@
 ---
+name: Eigene Karten
+#edition:
+
 white-cards:
-- text: Sandra Bullock.
-- text: Dr. Sheldon Cooper.
-- text: Penny.
-- text: Die Muselmanen.
-- text: Takeshi's Castle.
-- text: Katzenbabys.
-- text: Hentais
-- text: Die DDR.
-- text: Bayern.
-- text: |
+  - text: Sandra Bullock.
+  - text: Dr. Sheldon Cooper.
+  - text: Penny.
+  - text: Die Muselmanen.
+  - text: Takeshi's Castle.
+  - text: Katzenbabys.
+  - text: Hentais
+  - text: Die DDR.
+  - text: Bayern.
+  - text: |
           "Niemand hat die
           Absicht, eine Mauer
           zu bauen".
-- text: Unbefleckte Empfängnis.
-- text: WhatsApp-Gruppen.
-- text: Kollateral-schaden.
-- text: Nippelwetter.
-- text: Die längste Praline der Welt.
-- text: |
-        Bond,
-        James Bond.
-- text: |
-        Waffen,
-        viele Waffen.
-- text: Death Metal.
-- text: DER TOD.
-- text: Pet Play.
-- text: Darth Vaders Stimme.
-- text: Frühstücksspeck.
-- text: Rekursion.
-- text: T-Rex.
-- text: Public Disgrace.
-- text: T-Systems.
-- text: SAP.
-- text: Fefes Blog.
-- text: Karl-Theodor zu Guttenberg.
-- text: Horst Seehofer.
-- text: Das BKA.
-- text: Jesus.
-- text: Galileo.
-- text: Francesco Schettino.
-- text: Malaysia-Airlines-Flüge buchen.
-- text: Sicherheits-risiken.
-- text: Sony-Hacks.
-- text: Vorratsdaten-speicherung.
-- text: Geheimdienste.
-- text: Google und Facebook.
-- text: Energy-Drinks.
-- text: Die Tea-Party.
-- text: Captain Jack Sparrow.
-- text: Indiana Jones.
-- text: Der "War on Terror".
-- text: Eine Tarnkappe.
-- text: Mikrowellen.
-- text: Vegetarische Grillorgien.
-- text: Leute, für die wir dieses Spiel übersetzen mussten.
-- text: Callcenter.
-- text: Quotenneger.
-- text: Nom, nom, nom.
-- text: Kleinwüchsige siamesische Zwillinge, die einen Ziegenbock massieren.
-- text: Ein Hoax.
-- text: Bonsai-Kitten.
-- text: Das fliegende Spaghettimonster.
-- text: Zeugen Jehovas.
-- text: Kamasutra-Stellungen.
-- text: |
-        69.
-- text: Dixie-Toiletten auf Heavy-Metal-Festivals.
-- text: Das Bedürfnis der Leute nach Pop.
-- text: Godzilla.
-- text: Mensa-Fraß.
-- text: Lara Croft.
-- text: Angelina Jolie.
-- text: Die Ghostbusters.
-- text: Der Touring-Test.
-- text: Der dritte Weltkrieg.
-- text: Maoam!
-- text: "This is Spartaaa!"
-- text: Pissen mit Aussicht.
-- text: Kaviar.
-- text: Reisbauern aus Kambodscha.
-- text: Der Large Hadron Collider.
-- text: Wladimir Putins Outdoor-Stunts.
-- text: Chuck Norris.
-- text: CO2-neutral
-- text: Dungeons & Dragons.
-- text: Ein Gummihuhn.
-- text: Murray, der sprechende Totenschädel.
-- text: Guybrush Threepwood.
-- text: Ein dreiköpfiger Affe, direkt hinter dir!
-- text: Schwarze Löcher in Gläsern.
-- text: Nach der Macht greifen.
-- text: Dirty Sanchez.
-- text: Das Zwiebelprinzip.
-- text: Black Jack und Nutten. Zur Not auch ohne Black Jack.
-- text: Die Weltherrschaft.
-- text: "Friss Scheiße und stirb!"
-- text: Den Kopf abreißen und in den Hals kacken.
-- text: Inspector Gadget.
-- text: Explosionsartiger Durchfall.
-- text: Der Unreal-Tournament-Announcer.
-- text: Getragene Unterwäsche.
-- text: Damenwäsche-träger.
-- text: Die U-Boot-Kontroverse.
-- text: Wolowitz' Pipibeutel.
+  - text: Unbefleckte Empfängnis.
+  - text: WhatsApp-Gruppen.
+  - text: Kollateral-schaden.
+  - text: Nippelwetter.
+  - text: Die längste Praline der Welt.
+  - text: |
+          Bond,
+          James Bond.
+  - text: |
+          Waffen,
+          viele Waffen.
+  - text: Death Metal.
+  - text: DER TOD.
+  - text: Pet Play.
+  - text: Darth Vaders Stimme.
+  - text: Frühstücksspeck.
+  - text: Rekursion.
+  - text: T-Rex.
+  - text: Public Disgrace.
+  - text: T-Systems.
+  - text: SAP.
+  - text: Fefes Blog.
+  - text: Karl-Theodor zu Guttenberg.
+  - text: Horst Seehofer.
+  - text: Das BKA.
+  - text: Jesus.
+  - text: Galileo.
+  - text: Francesco Schettino.
+  - text: Malaysia-Airlines-Flüge buchen.
+  - text: Sicherheits-risiken.
+  - text: Sony-Hacks.
+  - text: Vorratsdaten-speicherung.
+  - text: Geheimdienste.
+  - text: Google und Facebook.
+  - text: Energy-Drinks.
+  - text: Die Tea-Party.
+  - text: Captain Jack Sparrow.
+  - text: Indiana Jones.
+  - text: Der "War on Terror".
+  - text: Eine Tarnkappe.
+  - text: Mikrowellen.
+  - text: Vegetarische Grillorgien.
+  - text: Leute, für die wir dieses Spiel übersetzen mussten.
+  - text: Callcenter.
+  - text: Quotenneger.
+  - text: Nom, nom, nom.
+  - text: Kleinwüchsige siamesische Zwillinge, die einen Ziegenbock massieren.
+  - text: Ein Hoax.
+  - text: Bonsai-Kitten.
+  - text: Das fliegende Spaghettimonster.
+  - text: Zeugen Jehovas.
+  - text: Kamasutra-Stellungen.
+  - text: |
+          69.
+  - text: Dixie-Toiletten auf Heavy-Metal-Festivals.
+  - text: Das Bedürfnis der Leute nach Pop.
+  - text: Godzilla.
+  - text: Mensa-Fraß.
+  - text: Lara Croft.
+  - text: Angelina Jolie.
+  - text: Die Ghostbusters.
+  - text: Der Touring-Test.
+  - text: Der dritte Weltkrieg.
+  - text: Maoam!
+  - text: "This is Spartaaa!"
+  - text: Pissen mit Aussicht.
+  - text: Kaviar.
+  - text: Reisbauern aus Kambodscha.
+  - text: Der Large Hadron Collider.
+  - text: Wladimir Putins Outdoor-Stunts.
+  - text: Chuck Norris.
+  - text: CO2-neutral
+  - text: Dungeons & Dragons.
+  - text: Ein Gummihuhn.
+  - text: Murray, der sprechende Totenschädel.
+  - text: Guybrush Threepwood.
+  - text: Ein dreiköpfiger Affe, direkt hinter dir!
+  - text: Schwarze Löcher in Gläsern.
+  - text: Nach der Macht greifen.
+  - text: Dirty Sanchez.
+  - text: Das Zwiebelprinzip.
+  - text: Black Jack und Nutten. Zur Not auch ohne Black Jack.
+  - text: Die Weltherrschaft.
+  - text: "Friss Scheiße und stirb!"
+  - text: Den Kopf abreißen und in den Hals kacken.
+  - text: Inspector Gadget.
+  - text: Explosionsartiger Durchfall.
+  - text: Der Unreal-Tournament-Announcer.
+  - text: Getragene Unterwäsche.
+  - text: Damenwäsche-träger.
+  - text: Die U-Boot-Kontroverse.
+  - text: Wolowitz' Pipibeutel.
 
 black-cards:
-- text: |
-        _9 verhält
-        sich zu _9
-        wie _12
-        zu _13.
-  draw: 3
-  pick: 4
-- text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
-- text: |
-        1. _14.
-        2. _14.
-        3. Profit!
-  pick: 2
-- text: Je suis _9.
-- text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
-- text: |
-        Der neue Stephen-King-Roman:
-        Friedhof der _16.
-- text: Deine Mutter ist _16.
-- text: Pissen mit Erektion ist wie _16 mit _16.
-  pick: 2
-- text: _16. Challenge accepted!
-- text: _16 ... untenrum.
-- text: |
-        "Eyjafjallajökull" ist isländisch für _16.
-- text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _16.
-- text: _16 ist eines der Weltwunder der Neuzeit.
-- text: _11 hat als Kind Gute-Nacht-Geschichten über _18 vorgelesen bekommen.
-  pick: 2
-  font: 12
-- text: |
-        "Yellow Submarine" rückwärts abgespielt, klingt wie _12.
-- text: _16. Alles war gut.
-- text: Tausche Getreide gegen _10.
-- text: |
-        "Hey Brain, was wollen wir heute Abend machen?" "Das gleiche wie jeden Abend, Pinky. _10."
-  font: 12
-- text: _16 is on a killing spree.
-- text: _16 is a lie.
-- text: |
-        Deutschland morgens um halb zehn: _16.
-- text: _16. Frauen und Kinder zuerst.
-- text: Mit einem 3D-Drucker würde ich als erstes _10 herstellen.
-- text: 1001 _11. Märchen über _16.
-  pick: 2
-- text: Womit wird alles besser?
-- text: Auf eine einsame Insel nehme ich _16 mit.
-- text: _16. Es ist immer das gleiche.
-- text: Zwei _11, doppelt so gut!
-- text: All your _9 are belong to us.
-- text: It's time to _16 and chew bubble gum, and I'm all out of gum.
-- text: |
-        _16: Die neue Doku-Soap auf RTL.
-- text: _16. Du hättest nur zu fragen brauchen.
-- text: _7 + _7. Was könnte schiefgehen?!
-  pick: 2
-- text: Die Zombieapokalypse bricht aus und du hast nur ein Feuerzeug und _11 bei dir.
-  font: 12
-- text: Wie passend, du kämpfst wie _16!
-- text: Ich habe den Schwertmeister besiegt. Mit _16.
-- text: Go-Go-Gadget-o-_16.
-- text: _16 sind uns auf den Fersen und du willst _16?
-  pick: 2
-- text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _16.
-- text: Das gibt es nur in Japan. Automaten für _16.
-- text: _16. Like a boss.
-
+  - text: |
+          _9 verhält
+          sich zu _9
+          wie _12
+          zu _13.
+    draw: 3
+    pick: 4
+  - text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
+  - text: |
+          1. _14.
+          2. _14.
+          3. Profit!
+    pick: 2
+  - text: Je suis _9.
+  - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
+  - text: |
+          Der neue Stephen-King-Roman:
+          Friedhof der _16.
+  - text: Deine Mutter ist _16.
+  - text: Pissen mit Erektion ist wie _16 mit _16.
+    pick: 2
+  - text: _16. Challenge accepted!
+  - text: _16 ... untenrum.
+  - text: |
+          "Eyjafjallajökull" ist isländisch für _16.
+  - text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _16.
+  - text: _16 ist eines der Weltwunder der Neuzeit.
+  - text: _11 hat als Kind Gute-Nacht-Geschichten über _18 vorgelesen bekommen.
+    pick: 2
+    font: 12
+  - text: |
+          "Yellow Submarine" rückwärts abgespielt, klingt wie _12.
+  - text: _16. Alles war gut.
+  - text: Tausche Getreide gegen _10.
+  - text: |
+          "Hey Brain, was wollen wir heute Abend machen?" "Das gleiche wie jeden Abend, Pinky. _10."
+    font: 12
+  - text: _16 is on a killing spree.
+  - text: _16 is a lie.
+  - text: |
+          Deutschland morgens um halb zehn: _16.
+  - text: _16. Frauen und Kinder zuerst.
+  - text: Mit einem 3D-Drucker würde ich als erstes _10 herstellen.
+  - text: 1001 _11. Märchen über _16.
+    pick: 2
+  - text: Womit wird alles besser?
+  - text: Auf eine einsame Insel nehme ich _16 mit.
+  - text: _16. Es ist immer das gleiche.
+  - text: Zwei _11, doppelt so gut!
+  - text: All your _9 are belong to us.
+  - text: It's time to _16 and chew bubble gum, and I'm all out of gum.
+  - text: |
+          _16: Die neue Doku-Soap auf RTL.
+  - text: _16. Du hättest nur zu fragen brauchen.
+  - text: _7 + _7. Was könnte schiefgehen?!
+    pick: 2
+  - text: Die Zombieapokalypse bricht aus und du hast nur ein Feuerzeug und _11 bei dir.
+    font: 12
+  - text: Wie passend, du kämpfst wie _16!
+  - text: Ich habe den Schwertmeister besiegt. Mit _16.
+  - text: Go-Go-Gadget-o-_16.
+  - text: _16 sind uns auf den Fersen und du willst _16?
+    pick: 2
+  - text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _16.
+  - text: Das gibt es nur in Japan. Automaten für _16.
+  - text: _16. Like a boss.
 ...
