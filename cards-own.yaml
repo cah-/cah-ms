@@ -164,7 +164,9 @@ black-cards:
           Deutschland morgens um halb zehn: _16.
   - text: _16. Frauen und Kinder zuerst.
   - text: Mit einem 3D-Drucker würde ich als erstes _10 herstellen.
-  - text: 1001 _11. Märchen über _16.
+  - text: |
+          1001 _11:
+          Märchen über _16.
     pick: 2
   - text: Womit wird alles besser?
   - text: Auf eine einsame Insel nehme ich _16 mit.
