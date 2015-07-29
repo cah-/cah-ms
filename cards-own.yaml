@@ -1,6 +1,8 @@
 ---
 name: Eigene Karten
-#edition:
+edition: X1 DE
+# Game based on "Cards Against Humanity"
+# licensed under CC-BY-NC-SA 2.0
 
 white-cards:
   - text: Sandra Bullock.
@@ -108,6 +110,7 @@ white-cards:
   - text: Damenwäsche-träger.
   - text: Die U-Boot-Kontroverse.
   - text: Wolowitz' Pipibeutel.
+  - text: Sepp Blatter mit Geld bewerfen.
 
 black-cards:
   - text: |
@@ -176,4 +179,6 @@ black-cards:
   - text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _16.
   - text: Das gibt es nur in Japan. Automaten für _16.
   - text: _16. Like a boss.
+  - text: Nur _ ist korrupter als die FIFA.
+
 ...

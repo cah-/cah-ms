@@ -1,6 +1,9 @@
 ---
 name: Deutsches Basisspiel (editiert)
 edition: DE
+# Game based on "Cards Against Humanity"
+# Cards based on fan translations "German by Balz" and "German by Raphael"
+# licensed under CC-BY-NC-SA 2.0
 
 white-cards:
   - text: 110% geben.
@@ -378,7 +381,139 @@ black-cards:
   - text: Was ist Batmans heimliches Laster?
   - text: |
           Neues von J.K. Rowling: Harry Potter und die Kammer des _.
-
+  - text: Das stimmt, ich habe _ getötet. Wie, fragst du? _.
+    pick: 2
+  - text: Es tut mir leid, Profesor, aber wegen dem _ konnte ich meine Hausaufgaben nicht machen.
+  - text: Und der Oscar für _ geht an _.
+    pick: 2
+  - text: Bei meinem nächsten Zaubertrick werde ich _ aus einem _ holen.
+    pick: 2
+  - text: |
+          _ + _
+          = _.
+    draw: 2
+    pick: 3
+  - text: Was hast du uns aus Mexiko mitgebracht?
+  - text: |
+           _?
+           Dafür gibt's eine App.
+  - text: |
+           Schritt 1: _.
+           Schritt 2: _.
+           Schritt 3: Profit.
+    pick: 2
+  - text: |
+           _.
+           Einmal gepoppt, nie mehr gestoppt.
+  - text: Was ist meine Antidroge?
+  - text: Während die USA und die Sovietunion um den Mond kämpften, steckte die mexikanische Regierung Millionen von Pesos in die Erforschung von _.
+    font: 10
+  - text: Im neuen Disney-Film kämpft Hannah Montana das erste Mal mit _.
+  - text: Was ist meine geheime Superhelden-fähigkeit?
+  - text: Was ist die neue Trenddiät?
+  - text: Was hat Vin Diesel zu Abend gegessen?
+  - text: Als der Pharao nichts getan hat, rief Moses eine Plage von _ herbei.
+  - text: Wie halte ich meine Beziehung am Laufen?
+  - text: Was ist am krustigsten?
+  - text: |
+           Als ich auf LSD
+           war, verwandelte sich _
+           in _.
+    pick: 2
+  - text: Es heißt, in der JVA Tegel kannst du 200 Zigaretten für _ eintauschen.
+  - text: Nach dem Erdbeben brachte Sean Penn den Haitianern _.
+  - text: Statt Kohle gibt der Weihnachtsmann bösen Kindern nun _.
+  - text: Das Leben der Indianer wurde für immer verändert, als der weiße Mann ihnen _ zeigte.
+  - text: Was benutzt man in der Nachhilfe, um Schülern in Großstädten zum Erfolg zu verhelfen?
+  - text: Vielleicht wurde sie damit geboren. Vielleicht ist es _.
+  - text: In seinen letzten momenten dachte Michael Jackson an _.
+  - text: Weiße Menschen sind wie _.
+  - text: _ ist ein schmaler Grat, der zu _ führt.
+    pick: 2
+  - text: Warum tut mir alles weh?
+  - text: Ein romantisches Essen bei Kerzenschein wäre unvollständig ohne _.
+  - text: Was werde ich aus der Zukunft mitbringen, um alle davon zu überzeugen, dass ich ein mächtiger Zauberer bin?
+  - text: Bob Ross ist hier, um _.
+  - text: Die Klassenfahrt wurde durch _ völlig ruiniert.
+  - text: _ ist was Frauen wollen.
+  - text: Lieber Dr. Sommer, ich habe Probleme mit _ und würde dich gerne um Rat bitten.
+  - text: Als Präsident der USA würde ich ein Ministerium für _ einrichten.
+  - text: Was verstecken meine Eltern vor mir?
+  - text: Was funktioniert immer, um eine Party aufzupeppen?
+  - text: In einer von _ verwüsteten Welt ist _ unsere einzige Hoffnung
+    pick: 2
+  - text: Bilde ein Haiku (5-7-5).
+    draw: 2
+    pick: 3
+  - text: Im neusten Film von M. Night Shyamalan entdeckt Bruce Willis, dass _ in Wahrheit die ganze Zeit _ gewesen ist.
+    font: 11
+    pick: 2
+  - text: Was wird im Alter besser?
+  - text: |
+           _:
+           Gut bis zum letzten Tropfen.
+  - text: Ich habe 99 Probleme, aber _ ist keins davon.
+  - text: |
+           _:
+           It's a trap!
+  - text: MTVs neue Reality-Show zeigt acht verlebte Promis, die mit _ zusammen leben.
+  - text: Was würde Oma verstören und doch irgendwie anziehen?
+  - text: Was ist am meisten emo?
+  - text: Ich habe niemals wirklich _ verstanden, bis ich _ traf.
+    pick: 2
+  - text: Beim Sex denke ich gerne über _ nach.
+  - text: Was hat meine letzte Beziehung beendet?
+  - text: Was ist dieses Geräusch?
+  - text: |
+           _:
+           So möchte ich sterben.
+  - text: Warum bin ich verklebt?
+  - text: Was ist das nächste Happy-Meal-Spielzeug?
+  - text: Was gibt es im Himmel tonnenweise?
+  - text: Ich habe keine Ahnung mit welchen Waffen der 3. Weltkrieg geführt wird, aber der 4. Weltkrieg wird mit _ ausgefochten.
+    font: 11
+    pick: 2
+  - text: Wie findest du todsicher jemanden zum Flachlegen?
+  - text: Gerüchte besagen, dass Vladimir Putins Lieblingsessen _ gefüllt mit _ ist.
+    pick: 2
+  - text: |
+           Netflix präsentiert: _, die Geschichte von _.
+    pick: 2
+  - text: |
+           _:
+           Mit Kindern getestet, von Müttern freigegeben.
+  - text: Wieso kann ich nachts nicht schlafen?
+  - text: Was riecht da so?
+  - text: Was hilft Obama beim Entspannen?
+  - text: So wird die Welt enden / So wird die Welt enden / Nicht mit einem Knall, sondern mit _.
+  - text: |
+           Kommt diese Saison auf dem Broadway, _: Das Musical.
+  - text: Wissenschaftler haben kürzlich einen primitiven Stamm entdeckt, der _ verehrt.
+  - text: Doch bevor ich Sie töte, Mr. Bond, muss ich Ihnen _ zeigen.
+  - text: Studien belegen, dass sich Laborratten 50% schneller durch Teststrecken finden, wenn sie _ ausgesetzt wurden.
+    font: 10
+  - text: Wer bildet das nächste Superhelden/Gehilfen-Duo?
+    pick: 2
+  - text: |
+          Und nun auf Eurosport: Das Meisterschaftsnurnier im _.
+  - text: Wäre ich Millionär, würde ich eine 15-Meter-Statue in Gedenken an _ errichten lassen.
+  - text: Zur Steigerung der Besucherzahl eröffnete das Nationalmuseum für Naturgeschichte eine interaktive Ausstellung über _.
+    font: 10
+  - text: Krieg?! Wofür soll das gut sein?
+  - text: Was lässt mich unkontrolliert furzen?
+  - text: Wie riechen alte Leute?
+  - text: Worauf verzichte ich in der Fastenzeit?
+  - text: Die Alternativmedizin bedien sich nun der heilsamen Kräfte von _.
+  - text: Was ließen die USA im afghanischen Luftraum  für die Kinder abwerfen?
+  - text: Worauf steht Dick Cheney?
+  - text: Während seiner oftmals übersehenen braunen Periode schuf Picasso hunderte Gemälde von _.
+    font: 12
+  - text: Was möchtest du nicht in deinem chinsesischen Essen finden?
+  - text: Ich trinke, um _ zu vergessen.
+  - text: _. Gib mir fünf, Bruder!
+  - text: 
+  - text: 
+  - text: 
   - text: Lorem ipsum _1 dolor sit _1.2 amet
     font: 11
     draw: 2
