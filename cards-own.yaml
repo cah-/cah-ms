@@ -15,9 +15,7 @@ white-cards:
   - text: Die DDR.
   - text: Bayern.
   - text: |
-          "Niemand hat die
-          Absicht, eine Mauer
-          zu bauen".
+          "Niemand hat die Absicht, eine Mauer zu bauen."
   - text: Unbefleckte Empfängnis.
   - text: WhatsApp-Gruppen.
   - text: Kollateral-schaden.
@@ -46,7 +44,9 @@ white-cards:
   - text: Jesus.
   - text: Galileo.
   - text: Francesco Schettino.
-  - text: Malaysia-Airlines-Flüge buchen.
+  - text: |
+           Malaysia-Airlines-
+           Flüge buchen.
   - text: Sicherheits-risiken.
   - text: Sony-Hacks.
   - text: Vorratsdaten-speicherung.
@@ -56,7 +56,9 @@ white-cards:
   - text: Die Tea-Party.
   - text: Captain Jack Sparrow.
   - text: Indiana Jones.
-  - text: Der "War on Terror".
+  - text: |
+          Der
+          "War on Terror".
   - text: Eine Tarnkappe.
   - text: Mikrowellen.
   - text: Vegetarische Grillorgien.
@@ -67,7 +69,7 @@ white-cards:
   - text: Kleinwüchsige siamesische Zwillinge, die einen Ziegenbock massieren.
   - text: Ein Hoax.
   - text: Bonsai-Kitten.
-  - text: Das fliegende Spaghettimonster.
+  - text: Das fliegende Spaghetti-monster.
   - text: Zeugen Jehovas.
   - text: Kamasutra-Stellungen.
   - text: |
@@ -82,7 +84,8 @@ white-cards:
   - text: Der Touring-Test.
   - text: Der dritte Weltkrieg.
   - text: Maoam!
-  - text: "This is Spartaaa!"
+  - text: |
+          "This is Spartaaa!"
   - text: Pissen mit Aussicht.
   - text: Kaviar.
   - text: Reisbauern aus Kambodscha.
@@ -101,7 +104,8 @@ white-cards:
   - text: Das Zwiebelprinzip.
   - text: Black Jack und Nutten. Zur Not auch ohne Black Jack.
   - text: Die Weltherrschaft.
-  - text: "Friss Scheiße und stirb!"
+  - text: |
+          "Friss Scheiße und stirb!"
   - text: Den Kopf abreißen und in den Hals kacken.
   - text: Inspector Gadget.
   - text: Explosionsartiger Durchfall.
@@ -111,6 +115,12 @@ white-cards:
   - text: Die U-Boot-Kontroverse.
   - text: Wolowitz' Pipibeutel.
   - text: Sepp Blatter mit Geld bewerfen.
+  - text: Edmund Stoibers Transrapid-Rede.
+  - text: Autofahren nach zwei Maß Bier.
+  - text: Neuland.
+  - text: Anders Behring Breivik
+  - text: Mit Teilmantelgeschossen Jugendliche in Zeltlagern auf norwegischen Inseln töten.
+    font: 12
 
 black-cards:
   - text: |
@@ -121,10 +131,6 @@ black-cards:
     draw: 3
     pick: 4
   - text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
-  - text: |
-          1. _14.
-          2. _14.
-          3. Profit!
     pick: 2
   - text: Je suis _9.
   - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
@@ -179,6 +185,7 @@ black-cards:
   - text: Eine Woche zu Fuß durch die Wüste. Jetzt hilft nur noch _16.
   - text: Das gibt es nur in Japan. Automaten für _16.
   - text: _16. Like a boss.
-  - text: Nur _ ist korrupter als die FIFA.
-
+  - text: Nur _11 ist korrupter als die FIFA.
+  - text: _15 goes up to eleven!
+  - text: McDonald's verhält sich zu Burger King wie _15 zu _12.
 ...

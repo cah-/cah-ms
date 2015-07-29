@@ -39,7 +39,7 @@ white-cards:
   - text: Coitus interruptus.
   - text: Crystal Meth.
   - text: Darth Vader.
-  - text: Das Anstarren eines Glücksbärchen.
+  - text: Das Anstarren eines Glücksbärchens.
   - text: Das Blut Christi.
   - text: Das chinesische Gymnastikteam.
   - text: Das Herz eines Kindes.
@@ -251,6 +251,7 @@ white-cards:
   - text: Michelle Obamas Arme.
   - text: Mit dem Gefühl zurechtkommen.
   - text: Mit einem Gewehr in die Luft schießen, während man bis zu den Eiern in einem quiekenden Schwein steckt.
+    font: 10
   - text: Mit Pockenviren versehene Decken.
   - text: Mohammed (Gott segne ihn und schenke ihm Heil!)
   - text: Mord im Orient-Express.
@@ -294,7 +295,7 @@ white-cards:
   - text: Riesenlollis.
   - text: RoboCop.
   - text: Sachen anlecken, damit sie einem gehören.
-  - text: SAP Consultants.
+  - text: SAP-Consultants.
   - text: Sarah Palin.
   - text: Saxofon-Solos.
   - text: Schlampen.
@@ -374,148 +375,166 @@ white-cards:
 
 
 black-cards:
-  - text: TSA-Richtlinien verbieten nun _ in Flugzeugen.
-  - text: Es ist eine Schande, dass Kinder heutzutage in _ hineingezogen werden.
-  - text: In 1.000 Jahren, wenn Bargeld nur eine entfernte Erinnerung ist, wird _ unsere Währung sein.
-  - text: Im Profi-Fußball wurde _ verboten, weil es Spielern unfaire Vorteile verschaffte.
+  - text: TSA-Richtlinien verbieten nun _16 in Flugzeugen.
+  - text: Es ist eine Schande, dass Kinder heutzutage in _15 hineingezogen werden.
+    font: 12
+  - text: In 1.000 Jahren, wenn Bargeld nur eine entfernte Erinnerung ist, wird _11 unsere Währung sein.
+    font: 11
+  - text: Im Profi-Fußball wurde _10 verboten, weil es Spielern unfaire Vorteile verschaffte.
+    font: 12
   - text: Was ist Batmans heimliches Laster?
   - text: |
-          Neues von J.K. Rowling: Harry Potter und die Kammer des _.
-  - text: Das stimmt, ich habe _ getötet. Wie, fragst du? _.
+          Neues von J.K. Rowling:
+          Harry Potter und die Kammer des _15.
+  - text: Stimmt, ich habe _15 getötet. Wie, fragst du? _15.
     pick: 2
-  - text: Es tut mir leid, Profesor, aber wegen dem _ konnte ich meine Hausaufgaben nicht machen.
-  - text: Und der Oscar für _ geht an _.
+  - text: Es tut mir leid, Professor, aber wegen _12 konnte ich meine Hausaufgaben nicht machen.
+    font: 11
+  - text: Und der Oscar für _15 geht an _15.
     pick: 2
-  - text: Bei meinem nächsten Zaubertrick werde ich _ aus einem _ holen.
+  - text: Beim nächsten Zaubertrick werde ich _15 aus einem _15 holen.
+    font: 12
     pick: 2
   - text: |
-          _ + _
-          = _.
+          _7.5 + _7.5
+          = _15.
     draw: 2
     pick: 3
   - text: Was hast du uns aus Mexiko mitgebracht?
   - text: |
-           _?
+           _15?
            Dafür gibt's eine App.
   - text: |
-           Schritt 1: _.
-           Schritt 2: _.
-           Schritt 3: Profit.
+           Schritt 1: _7.
+           Schritt 2: _7.
+           Schritt 3: Profit!
     pick: 2
   - text: |
-           _.
+           _15.
            Einmal gepoppt, nie mehr gestoppt.
   - text: Was ist meine Antidroge?
-  - text: Während die USA und die Sovietunion um den Mond kämpften, steckte die mexikanische Regierung Millionen von Pesos in die Erforschung von _.
+  - text: | 
+           Während die USA und die UdSSR um den Mond kämpften, steck-
+           te die mexikanische Regierung Millionen in die Erforschung von _18.
     font: 10
-  - text: Im neuen Disney-Film kämpft Hannah Montana das erste Mal mit _.
+  - text: Im neuen Disney-Film kämpft Hannah Montana das erste Mal mit _16.
+    font: 12
   - text: Was ist meine geheime Superhelden-fähigkeit?
   - text: Was ist die neue Trenddiät?
   - text: Was hat Vin Diesel zu Abend gegessen?
-  - text: Als der Pharao nichts getan hat, rief Moses eine Plage von _ herbei.
+  - text: Als der Pharao nichts tat, rief Moses eine Plage von _12 herbei.
   - text: Wie halte ich meine Beziehung am Laufen?
   - text: Was ist am krustigsten?
-  - text: |
-           Als ich auf LSD
-           war, verwandelte sich _
-           in _.
+  - text: Als ich auf LSD war, verwandelte sich _11 in _12.
     pick: 2
-  - text: Es heißt, in der JVA Tegel kannst du 200 Zigaretten für _ eintauschen.
-  - text: Nach dem Erdbeben brachte Sean Penn den Haitianern _.
-  - text: Statt Kohle gibt der Weihnachtsmann bösen Kindern nun _.
-  - text: Das Leben der Indianer wurde für immer verändert, als der weiße Mann ihnen _ zeigte.
-  - text: Was benutzt man in der Nachhilfe, um Schülern in Großstädten zum Erfolg zu verhelfen?
-  - text: Vielleicht wurde sie damit geboren. Vielleicht ist es _.
-  - text: In seinen letzten momenten dachte Michael Jackson an _.
-  - text: Weiße Menschen sind wie _.
-  - text: _ ist ein schmaler Grat, der zu _ führt.
+  - text: Es heißt, in der JVA Tegel kannst du 200 Zigaretten für _13 eintauschen.
+  - text: Nach dem Erdbeben brachte Sean Penn den Haitianern _15.
+  - text: Statt Kohle gibt der Weihnachtsmann bösen Kindern nun _11.
+  - text: Das Leben der Indianer änderte sich für immer, als der weiße Mann ihnen _11 zeigte.
+    font: 12
+  - text: |
+           Um Großstadt-
+           Kindern zu schulischem Erfolg zu verhelfen, nutzt man in der Nachhilfe _17.
+    font: 11
+  - text: Vielleicht wurde sie damit geboren. Vielleicht ist es _15.
+  - text: In seinen letzten Momenten dachte Michael Jackson an _15.
+  - text: Weiße Menschen sind wie _7.5.
+  - text: _15 ist ein schmaler Grat, der zu _15 führt.
     pick: 2
   - text: Warum tut mir alles weh?
-  - text: Ein romantisches Essen bei Kerzenschein wäre unvollständig ohne _.
+  - text: Ein romantisches Essen bei Kerzenschein ist unvollständig ohne _10.5.
   - text: Was werde ich aus der Zukunft mitbringen, um alle davon zu überzeugen, dass ich ein mächtiger Zauberer bin?
-  - text: Bob Ross ist hier, um _.
-  - text: Die Klassenfahrt wurde durch _ völlig ruiniert.
-  - text: _ ist was Frauen wollen.
-  - text: Lieber Dr. Sommer, ich habe Probleme mit _ und würde dich gerne um Rat bitten.
-  - text: Als Präsident der USA würde ich ein Ministerium für _ einrichten.
+    font: 10
+  - text: Bob Ross ist hier, um _11.
+  - text: Die Klassenfahrt wurde durch _15 völlig ruiniert.
+  - text: _15 ist, was Frauen wollen.
+  - text: Lieber Dr. Sommer, ich habe Probleme mit _14 und würde dich gerne um Rat bitten.
+    font: 12
+  - text: Als Präsident der USA würde ich ein Ministerium für _13 einrichten.
   - text: Was verstecken meine Eltern vor mir?
   - text: Was funktioniert immer, um eine Party aufzupeppen?
-  - text: In einer von _ verwüsteten Welt ist _ unsere einzige Hoffnung
+  - text: In einer von _16 verwüsteten Welt ist _13 unsere einzige Hoffnung
     pick: 2
   - text: Bilde ein Haiku (5-7-5).
     draw: 2
     pick: 3
-  - text: Im neusten Film von M. Night Shyamalan entdeckt Bruce Willis, dass _ in Wahrheit die ganze Zeit _ gewesen ist.
-    font: 11
+  - text: Im neusten Film von M. Night Shyamalan entdeckt Bruce Willis, dass _13 in Wahrheit die ganze Zeit _15 gewesen ist.
+    font: 10
     pick: 2
   - text: Was wird im Alter besser?
   - text: |
-           _:
+           _15:
            Gut bis zum letzten Tropfen.
-  - text: Ich habe 99 Probleme, aber _ ist keins davon.
+  - text: Ich habe 99 Probleme, aber _15 ist keins davon.
   - text: |
-           _:
+           _15:
            It's a trap!
-  - text: MTVs neue Reality-Show zeigt acht verlebte Promis, die mit _ zusammen leben.
+  - text: MTVs neue Reality-Show zeigt acht verlebte Promis, die mit _18 zusammenleben.
+    font: 12
   - text: Was würde Oma verstören und doch irgendwie anziehen?
   - text: Was ist am meisten emo?
-  - text: Ich habe niemals wirklich _ verstanden, bis ich _ traf.
+  - text: Ich habe niemals wirklich _8 verstanden, bis ich _8 traf.
     pick: 2
-  - text: Beim Sex denke ich gerne über _ nach.
+  - text: Beim Sex denke ich gerne über _10 nach.
   - text: Was hat meine letzte Beziehung beendet?
   - text: Was ist dieses Geräusch?
   - text: |
-           _:
+           _15:
            So möchte ich sterben.
   - text: Warum bin ich verklebt?
   - text: Was ist das nächste Happy-Meal-Spielzeug?
   - text: Was gibt es im Himmel tonnenweise?
-  - text: Ich habe keine Ahnung mit welchen Waffen der 3. Weltkrieg geführt wird, aber der 4. Weltkrieg wird mit _ ausgefochten.
-    font: 11
+  - text: Ich habe keine Ahnung mit welchen Waffen der 3. Weltkrieg geführt wird, aber der 4. Weltkrieg wird mit _8 ausgefochten.
+    font: 10
     pick: 2
   - text: Wie findest du todsicher jemanden zum Flachlegen?
-  - text: Gerüchte besagen, dass Vladimir Putins Lieblingsessen _ gefüllt mit _ ist.
+  - text: Gerüchte besagen, dass Vladimir Putins Lieblingsessen _15 gefüllt mit _15 ist.
+    font: 11
     pick: 2
   - text: |
-           Netflix präsentiert: _, die Geschichte von _.
+           Netflix präsentiert:
+           _15,
+           die Geschichte von
+           _12.
     pick: 2
   - text: |
-           _:
+           _15:
            Mit Kindern getestet, von Müttern freigegeben.
   - text: Wieso kann ich nachts nicht schlafen?
   - text: Was riecht da so?
   - text: Was hilft Obama beim Entspannen?
-  - text: So wird die Welt enden / So wird die Welt enden / Nicht mit einem Knall, sondern mit _.
+  - text: So wird die Welt enden / So wird die Welt enden / Nicht mit einem Knall, sondern mit _16.
+    font: 12
   - text: |
-           Kommt diese Saison auf dem Broadway, _: Das Musical.
-  - text: Wissenschaftler haben kürzlich einen primitiven Stamm entdeckt, der _ verehrt.
-  - text: Doch bevor ich Sie töte, Mr. Bond, muss ich Ihnen _ zeigen.
-  - text: Studien belegen, dass sich Laborratten 50% schneller durch Teststrecken finden, wenn sie _ ausgesetzt wurden.
+           Kommt diese Saison auf dem Broadway:
+           _15: Das Musical.
+  - text: Wissenschaftler haben kürzlich einen primitiven Stamm entdeckt, der _5 verehrt.
+  - text: Doch bevor ich Sie töte, Mr. Bond, muss ich Ihnen _10 zeigen.
+  - text: Studien belegen, dass sich Laborratten 50% schneller durch Teststrecken finden, wenn sie _10 ausgesetzt wurden.
     font: 10
   - text: Wer bildet das nächste Superhelden/Gehilfen-Duo?
     pick: 2
   - text: |
-          Und nun auf Eurosport: Das Meisterschaftsnurnier im _.
-  - text: Wäre ich Millionär, würde ich eine 15-Meter-Statue in Gedenken an _ errichten lassen.
-  - text: Zur Steigerung der Besucherzahl eröffnete das Nationalmuseum für Naturgeschichte eine interaktive Ausstellung über _.
+          Und nun auf Eurosport:
+          Das Meisterschaftsturnier im _15.
+  - text: Wäre ich Millionär, würde ich eine 15-Meter-Statue in Gedenken an _16 errichten lassen.
+    font: 12
+  - text: Zur Steigerung seiner Besucherzahlen eröffnete das Nationalmuseum für Naturgeschichte eine interaktive Ausstellung über _14.
     font: 10
   - text: Krieg?! Wofür soll das gut sein?
   - text: Was lässt mich unkontrolliert furzen?
   - text: Wie riechen alte Leute?
   - text: Worauf verzichte ich in der Fastenzeit?
-  - text: Die Alternativmedizin bedien sich nun der heilsamen Kräfte von _.
-  - text: Was ließen die USA im afghanischen Luftraum  für die Kinder abwerfen?
+  - text: Die Alternativ-medizin bedient sich nun der heilsamen Kräfte von _11.
+  - text: Was ließen die USA im afghanischen Luftraum für die Kinder abwerfen?
   - text: Worauf steht Dick Cheney?
-  - text: Während seiner oftmals übersehenen braunen Periode schuf Picasso hunderte Gemälde von _.
+  - text: Während seiner meist übersehenen braunen Periode schuf Picasso hunderte Gemälde von _14.
     font: 12
   - text: Was möchtest du nicht in deinem chinsesischen Essen finden?
-  - text: Ich trinke, um _ zu vergessen.
-  - text: _. Gib mir fünf, Bruder!
-  - text: 
-  - text: 
-  - text: 
-  - text: Lorem ipsum _1 dolor sit _1.2 amet
-    font: 11
-    draw: 2
-    pick: 4
+  - text: Ich trinke, um _15 zu vergessen.
+  - text: _15. Gib mir fünf, Bruder!
+#  - text: Lorem ipsum _1 dolor sit _1.2 amet
+#    font: 11
+#    draw: 2
+#    pick: 4
 ...
