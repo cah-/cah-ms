@@ -1,0 +1,21 @@
+---
+name: Eigene Karten
+edition: X1 DE
+# Game based on "Cards Against Humanity"
+# licensed under CC-BY-NC-SA 2.0
+
+white-cards:
+  - text: Nackt Twister spielen.
+  - text: 
+  - text: 
+  - text: 
+
+black-cards:
+#  - text: |
+#          _9 verhält
+#          sich zu _9
+#          wie _12
+#          zu _13.
+#    draw: 3
+#    pick: 4
+...

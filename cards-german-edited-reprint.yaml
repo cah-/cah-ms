@@ -1,0 +1,14 @@
+---
+name: Deutsches Basisspiel (editiert)
+edition: DE
+# Game based on "Cards Against Humanity"
+# Cards based on fan translations "German by Balz" and "German by Raphael"
+# licensed under CC-BY-NC-SA 2.0
+
+white-cards:
+  - text: Glory Holes.
+
+black-cards:
+  - text: Wer bildet das nächste Superhelden-Gehilfen-Duo?
+    pick: 2
+...
