@@ -23,6 +23,8 @@ white-cards:
   - text: Raumnazis.
   - text: Jemandem Albanisierer verabrechen.
   - text: Menschenknochen als Flaschenöffner.
+  - text: Die Länge von Titeln akademischer Veröffentlichungen.
+  - text: Unerwartet einen Fingern im Hintern haben.
 
 black-cards:
   - text: _15 looking at things.
@@ -34,12 +36,4 @@ black-cards:
   - text: Das Ergebnis der Besprechung: _10 ist leider nicht darstellbar.
   - text: _12 war bloß eine Nebelkerze für _12.
   - text: Rettet _15!
-# Quelle für mehr: www.spiegel.de/karriere/berufsleben/seo-a-1004202.html
-#  - text: |
-#          _9 verhält
-#          sich zu _9
-#          wie _12
-#          zu _13.
-#    draw: 3
-#    pick: 4
 ...
