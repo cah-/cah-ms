@@ -1,0 +1,31 @@
+---
+name: Karten aus dem netz
+edition: W1 DE
+# Game based on "Cards Against Humanity"
+# licensed under CC-BY-NC-SA 2.0
+
+white-cards:
+  - text: Mein wertloser Sohn.
+  - text: Die dämliche Fresse meines Vaters.
+  - text: Texas.
+  - text: Hakuna matata, motherfucker!
+  - text: |
+          "Ich liebe dich" sagen.
+  - text: Dinge aus Hitlers Perspektive sehen.
+  - text: Die gottverdammte Sache!
+  - text: Obamas weiße Hälfte.
+  - text: Obamas schwarze Hälfte.
+  - text: Fisting.
+  - text: Ein Haufen Idioten, die ein Kartenspiel spielen, statt wie richtige Menschen miteinander umzugehen.
+
+black-cards:
+  - text: Im Leben sind nur zwei Dinge sicher: Der Tod und _.
+  - text: Bevor ich Kanzlerkandiat werde, muss ich jegliche Beweise meiner Beteiligung an _ vernichten.
+  - text: Als Kind haben wir Cowboy und _ gespielt.
+  - text: Das Thema beim nächsten Mal: Wie erkläre ich meinem Kind _?
+  - text: Wenn nichts mehr hilft, kann ich immer noch zu _ masturbieren.
+  - text: Für meine Seele versprach mir der Teufel _, aber alles was ich bekam war _.
+  - text: Dank _ habe ich endlich von _ zu _ gewechselt!
+  - text: Was ist solange lustig, bis es merkwürdig wird?
+  - text: Liebling, Mami und Papi lieben dich sehr, aber anscheinend liebt Mami _ mehr als Papi.
+...
