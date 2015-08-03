@@ -11,4 +11,7 @@ white-cards:
 black-cards:
   - text: Wer bildet das nächste Superhelden-Gehilfen-Duo?
     pick: 2
+  - text: Was werde ich aus der Zukunft mitbringen, um alle davon zu überzeugen, dass ich ein mächtiger Zauberer bin?
+    font: 10
+  - text: Was hat meine letzte Beziehung beendet?
 ...
