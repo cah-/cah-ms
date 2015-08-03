@@ -8,4 +8,9 @@ white-cards:
   - text: Der Turing-Test.
 
 black-cards:
+  - text: |
+          Der neue Stephen-King-Roman:
+          Friedhof der _16.
+  - text: |
+          Deutschland morgens um halb zehn: _16.
 ...
