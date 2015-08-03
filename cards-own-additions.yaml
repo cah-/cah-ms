@@ -29,6 +29,7 @@ white-cards:
   - text: Blackwater-Leibwächter.
   - text: Produkte der Firma Gamma Group.
   - text: Brüste als Passivbewaffnung.
+  - text: TempleOS und HolyC.
   
 
 black-cards:
@@ -41,4 +42,6 @@ black-cards:
   - text: Das Ergebnis der Besprechung: _10 ist leider nicht darstellbar.
   - text: _12 war bloß eine Nebelkerze für _12.
   - text: Rettet _15!
+  - text: Vertrauen ist gut, _ ist besser.
+  - text: Reden ist Silber, _ ist Gold.
 ...
