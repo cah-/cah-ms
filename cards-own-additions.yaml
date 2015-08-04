@@ -31,6 +31,13 @@ white-cards:
   - text: Brüste als Passivbewaffnung.
   - text: TempleOS und HolyC.
   - text: Business-Schottenröcke.
+  - text: Jemanden mit warmer Mayo einreiben.
+  - text: Der verrückte Youtube-Hitler.
+  - text: Angela Merkels vollstes Vertrauen ausgesprochen bekommen.
+  - text: Die Finger wie Mr. Burns aneinanderlegen.
+  - text: Poster von Politikern in Kinderzimmern.
+  - text: Die Toten aufwecken.
+  - text: Die Voodoo-Puppe von Largo LaGrande.
   
 
 black-cards:
@@ -45,4 +52,12 @@ black-cards:
   - text: Rettet _15!
   - text: Vertrauen ist gut, _ ist besser.
   - text: Reden ist Silber, _ ist Gold.
+  - text: Transferhammer: _ zum FC Bayern!
+  - text: Nach Seuchenjahr: St. Pauli versucht sich mit _ vor dem Abstieg zu rette
+  - text: Wettrüsten im Pott: Der BVB verplichtet _, Schalke verstärkt sich mit _.
+    draw: 1
+    pick: 2
+  - text: Bild deckt auf: _ masturbiert im Büro zu _.
+    draw: 1
+    pick: 2
 ...
