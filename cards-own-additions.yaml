@@ -38,6 +38,28 @@ white-cards:
   - text: Poster von Politikern in Kinderzimmern.
   - text: Die Toten aufwecken.
   - text: Die Voodoo-Puppe von Largo LaGrande.
+  - text: Der Heartbleed-Bug.
+  - text: Edward Snowden.
+  - text: Ungültige SSL-Zertifikate.
+  - text: Karl Klammer.
+  - text: Eine Steuer auf Counterstrike-Kills.
+  - text: Der Geisterpirat LeChuck.
+  - text: Christoph Waltz.
+  - text: Brutalstmögliche Aufklärung versprechen.
+  - text: Eine gesunde Prise Sexismus.
+  - text: Die Passives-Abseits-Regel.
+  - text: Gestikulieren wie Stan S. Stanman.
+  - text: Die Black Mesa Corporation.
+  - text: Deckard Cain.
+  - text: Wirts Bein.
+  - text: Das geheime Kuhlevel.
+  - text: Jim Raynor und Arcturus Mengsk.
+  - text: Mammutpanzer.
+  - text: Friedenspanzer.
+  - text: Auftragskiller auf Silkroad anheuern.
+  - text: Die Partei bibeltreuer Christen.
+  - text: Yanis Varoufakis.
+  - text: Die vier Reiter der Apokalypse.
   
 
 black-cards:
@@ -60,4 +82,10 @@ black-cards:
   - text: Bild deckt auf: _ masturbiert im Büro zu _.
     draw: 1
     pick: 2
+  - text: |
+          Das merkwürdige Verhalten geschlechtsreifer _12 zur Paarungszeit.
+  - text: Nur _ ist schneller als Musik von DragonForce.
+  - text: _11 ist für alle da.
+  - text: Herrenüberschuss verhält sich zu Gang Bang wie _ zu _.
+  - text: _11 ist der fünfte Reiter der Apokalypse.
 ...
