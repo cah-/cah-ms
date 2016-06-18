@@ -11,21 +11,21 @@ white-cards:
   - text: Der SNA-Komplex [sic!].
   - text: Generalbundesanwalt Harald Range.
   - text: Landesverrat.
-  - text: ASCII Pr0n.
+  - text: ASCII-Pr0n.
   - text: Die Bush-Dynastie.
   - text: Schlammschlachten auf Wacken.
   - text: Agent Smith.
   - text: Fensterlose weiße Lieferwagen.
   - text: Tee wegbringen.
-  - text: Smarte Scharfschützengewehre (mit WLAN!)
+  - text: Smarte Scharfschützengewehre (mit WLAN!).
   - text: Sich nach dem Slender-Man umsehen.
   - text: Sheldons Mutter.
   - text: Raumnazis.
   - text: Jemandem Albanisierer verabrechen.
-  - text: Menschenknochen als Flaschenöffner.
+  - text: Menschenknochen als Flaschenöffner nutzen.
   - text: Die Länge von Titeln akademischer Veröffentlichungen.
-  - text: Unerwartet einen Fingern im Hintern haben.
-  - text: Kunden von Hacking-Team.
+  - text: Unerwartet einen Finger im Hintern haben.
+  - text: Kunden der Firma Hacking-Team.
   - text: Blackwater-Leibwächter.
   - text: Produkte der Firma Gamma Group.
   - text: Brüste als Passivbewaffnung.
@@ -56,7 +56,7 @@ white-cards:
   - text: Jim Raynor und Arcturus Mengsk.
   - text: Mammutpanzer.
   - text: Friedenspanzer.
-  - text: Auftragskiller auf Silkroad anheuern.
+  - text: Auftragskiller über Silkroad anheuern.
   - text: Die Partei bibeltreuer Christen.
   - text: Yanis Varoufakis.
   - text: Die vier Reiter der Apokalypse.
@@ -73,11 +73,10 @@ black-cards:
           _15: I did it for the lulz.
   - text: Das Ergebnis der Besprechung: _10 ist leider nicht darstellbar.
   - text: _12 war bloß eine Nebelkerze für _12.
-  - text: Rettet _15!
   - text: Vertrauen ist gut, _ ist besser.
   - text: Reden ist Silber, _ ist Gold.
   - text: Transferhammer: _ zum FC Bayern!
-  - text: Nach Seuchenjahr: St. Pauli versucht sich mit _ vor dem Abstieg zu rette
+  - text: Nach Seuchenjahr: St. Pauli versucht sich mit _ vor dem Abstieg zu retten.
   - text: Wettrüsten im Pott: Der BVB verplichtet _, Schalke verstärkt sich mit _.
     draw: 1
     pick: 2
@@ -90,4 +89,5 @@ black-cards:
   - text: _11 ist für alle da.
   - text: Herrenüberschuss verhält sich zu Gang Bang wie _ zu _.
   - text: _11 ist der fünfte Reiter der Apokalypse.
+  - text: E.L. James' neues Buch: 50 Shades of _.
 ...
