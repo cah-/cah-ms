@@ -43,6 +43,18 @@ white-cards:
   - text: Das dringende Bedürfnis nach einem neuen Schwanz in deiner Mumu, um den letzten zu vergessen.
   - text: Die sinnliche Klavier-Hintergrundmusik in Frauenpornos.
   - text: Jörg Kachelmann dabei erwischen, wie er deine Mutter nimmt. Und deinen Vater.
+  - text: Musik der Cantina-Band in 10-Stunden-Schleife.
+  - text: Der giftige Plastikgeruch des schwelenden Vaders.
+  - text: Chewbaccas Friseur.
+  - text: Einen schwarzen Trenchcoat im Sommer tragen.
+  - text: Die Droiden, nach denen ihr sucht.
+  - text: Der Jedi-Code.
+  - text: Ein Keller voller schwitzender Nerds.
+  - text: Explosionen im Weltraum.
+  - text: Luther Blissett.
+  - text: |
+          "Hodor, Hodor, Hodor Hodor Hodor Hodor."
+  - text: Die rote Hochzeit.
 
 
 black-cards:
@@ -100,4 +112,16 @@ black-cards:
   - text: Unrasierte Beine, dreckige Wohnung und _: Dinge, um die ich mich nur kümmere, wenn sie jemand zu Gesicht bekommt.
   - text: Neue CaH-Karte: Kim Jong-Un darum bitten, beim nächsten Mal _ zu hacken.
   - text: Nur _ ist besser, als von einem Geiger gefingert zu werden.
+  - text: Luke, wer ist dein Vater?
+  - text: Beim Erstellen eines neuen Charakters investiere ich die meisten Punkte in _.
+  - text: Laut einem Online-Quiz bin ich _.
+  - text: Als ausgegrenzte Randgruppe akzeptieren wie jeden. Also außer, du stehst auf _.
+  - text: Kinetische Energie lässt sich am besten anhand von _ und _ erklären.
+    pick: 2
+  - text: MacGyver kann Bomben selbst mit _ entschärfen.
+  - text: Soldat, wieso sind Sie nicht auf Ihrem Posten?
+  - text: Mein neuer Rollenspiel-Charakter ist so klug wie _ und so stark wie _.
+    pick: 2
+  - text: Ich werde erst Sport treiben, wenn _ als solcher anerkannt wird.
+  - text: Als Kind wurde ich zum Schulpsychologen geschickt, weil ich einen Aufsatz über _ geschrieben hatte.
 ...
