@@ -68,6 +68,24 @@ white-cards:
   - text: Eine Google-Bildersuche zutiefst bereuen.
   - text: Einsame Nerds, die Feminismus hassen.
   - text: Von hinten sichtbare Gesichtsbehaarung.
+  - text: Atomkrieg.
+  - text: Das Ende der Zeit.
+  - text: Godwins Gesetz.
+  - text: Erkennen, dass Wettessen deine einzige Superkraft ist.
+  - text: Die Organe von Obdachlosen ernten.
+  - text: Eine Schwangere, der Füße zwischen den Beinen hängen.
+  - text: Nachbarn mit Vorzügen.
+  - text: Nicht weinen müssen, wenn man Sperma ins Auge bekommt.
+  - text: Regenbogenfarbenes Einhornfleisch.
+  - text: Seine Schulden zahlen wie ein Lannister.
+  - text: Tyrion Lannister.
+  - text: Jon Snow.
+  - text: Joffrey Baratheon.
+  - text: Sex mit Cersei Lannister.
+  - text: Von Peter Dincklage gespielt werden.
+  - text: Hodor, das Game-of-Thrones-Theme singend.
+  - text: Eine Klinge aus valyrischem Stahl.
+  - text: Fette Leute in einem Konzentrationslager.
 
 
 black-cards:
@@ -151,5 +169,20 @@ black-cards:
   - text: Das einzige, was _ entgegensteht, ist _.
   - text: _ wird neu aufgelegt, aber diesmal mit _.
   - text: Ich fürchte mich nur vor zwei Dingen. Atomkrieg und _.
+  - text: _. Selbst dafür gibt es einen Fetisch.
+  - text: Wenn es um Politik geht, braucht man eigentlich nur _ und _.
+  - text: _ traut sich meistens nur nachts raus. Meistens.
+  - text: In seinem nächsten Buch wird G.R.R. Martin 500 ausführliche Seiten _ widmen.
+  - text: Als Daenerys aus den Flammen trat, galt ihr erster Gedanke _.
+  - text: Der Geist braucht _ wie das Schwert _.
+  - text: Gäbe es Pornos in Westeros, würden sie hauptsächlich von _ handeln.
+  - text: _ hat den Eisernen Thron mithilfe von _ gewonnen.
+  - text: Wenn König Joffrey Spaß haben möchte, verlangt er nach _.
+  - text: |
+          Hypothese: _
+          Experiment: _
+          Schlussfolgerung: _
+    draw: 2
+    pick: 3
 
 ...
