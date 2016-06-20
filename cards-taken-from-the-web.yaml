@@ -55,6 +55,19 @@ white-cards:
   - text: |
           "Hodor, Hodor, Hodor Hodor Hodor Hodor."
   - text: Die rote Hochzeit.
+  - text: Erwachsene Männer und Frauen, die sich mit gepolsterten Schwertern prügeln.
+  - text: Selbstsicher den Ort einer Explosion verlassen, ohne sich umzusehen.
+  - text: Leute, die HTML als Programmsprache bezeichnen.
+  - text: Das Necronomicon rezitieren.
+  - text: Wie eine Brille dich klug statt blind aussehen lässt.
+  - text: Die klügste Person im Raum sein.
+  - text: Qualitäten, die andere Menschen bei Sexualpartnern begehrenswert finden.
+  - text: Ingenieurs-Porn.
+  - text: Den Plural von 'Apokalpse' benötigen.
+  - text: Die Dinge, die ich während Mario Kart von mir gebe.
+  - text: Eine Google-Bildersuche zutiefst bereuen.
+  - text: Einsame Nerds, die Feminismus hassen.
+  - text: Von hinten sichtbare Gesichtsbehaarung.
 
 
 black-cards:
@@ -124,4 +137,19 @@ black-cards:
     pick: 2
   - text: Ich werde erst Sport treiben, wenn _ als solcher anerkannt wird.
   - text: Als Kind wurde ich zum Schulpsychologen geschickt, weil ich einen Aufsatz über _ geschrieben hatte.
+  - text: Niemand glaubt mir, dass ich gegen _ allergisch bin.
+  - text: Der Zweck des Internets ist _.
+  - text: Ich bin vielleicht unsportlich, aber dafür kann ich großartig _.
+  - text: Regel 34 stimmt immer. Keine Ausnahmen, nicht einmal für _.
+  - text: Im 24. Jahrhundert werden alle Raumschiffe mit _ ausgerüstet sein.
+  - text: Videospiele machen Leute nicht gewalttätig. Viel wahrscheinlicher ist _.
+  - text: _ hat angerufen. Er will_ zurück.
+  - text: Die Maslowsche Bedürfnishierarchie sollte um _ erweitert werden.
+  - text: Verdammt, Kickstarter hat die Schwarmfinanzierung von _ abgelehnt!
+  - text: Ich habe an der Wunderlampe gerieben, aber statt eines Dschinns erschien _.
+  - text: Nur _ kann uns vor Skynet retten.
+  - text: Das einzige, was _ entgegensteht, ist _.
+  - text: _ wird neu aufgelegt, aber diesmal mit _.
+  - text: Ich fürchte mich nur vor zwei Dingen. Atomkrieg und _.
+
 ...
