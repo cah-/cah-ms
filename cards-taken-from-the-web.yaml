@@ -8,7 +8,6 @@ white-cards:
   - text: Mein wertloser Sohn.
   - text: Die dämliche Fresse meines Vaters.
   - text: Texas.
-  - text: Hakuna matata, motherfucker!
   - text: |
           "Ich liebe dich" sagen.
   - text: Dinge aus Hitlers Perspektive sehen.
@@ -28,6 +27,14 @@ white-cards:
   - text: Mein Browser-Verlauf.
   - text: Die kleine nackte Frau unter deinem Schreibtisch.
   - text: Kondome in der Familienpackung.
+  - text: Weibliche Hysterie.
+  - text: Witze von Jan Böhmermann.
+  - text: Recep Tayyip Erdoğan.
+  - text: Das Patriachat.
+  - text: Gender-neutrale Pronomen (benutzen).
+  - text: Auf der roten Welle surfen.
+  - text: Die Erdbeerwoche.
+
 
 black-cards:
   - text: Im Leben sind nur zwei Dinge sicher: Der Tod und _.
@@ -60,4 +67,13 @@ black-cards:
   - text: Wir sollten sicherstellen, dass sich alleinerziehende Mütter nicht zwischen _ und _ entscheiden müssen.
   - text: Familien in ländlichen Gegenden sollten besseren Zugriff auf _ haben.
   - text: Was ist die perfekte Art, den Tag zu beenden?
+  - text: Gegen die Gender Pay Gap hilft nur _.
+  - text: _ ist im Kern eine feministische Angelegenheit.
+  - text: Moderner Feminismus sollte _ ansprechen.
+  - text: Moderner Sexismus sollte _ ansprechen.
+  - text: Eine Frau braucht einen Mann wie ein Fisch _.
+  - text: Um Feminismus wirklich zu verstehen, muss man erstmal _ verstehen.
+  - text: Frauen sind in Politik und Wirtschaft unterrepräsentiert wegen _.
+  - text: Im Grunde ist Feminismus die Auffassung, dass Frauen _ sind.
+  - text: Frauen- und Geschlechterforschung ist das akademische Äquivalent zu _.
 ...
