@@ -86,6 +86,13 @@ white-cards:
   - text: Hodor, das Game-of-Thrones-Theme singend.
   - text: Eine Klinge aus valyrischem Stahl.
   - text: Fette Leute in einem Konzentrationslager.
+  - text: Glitzer scheißen.
+  - text: An einem 11. September Jenga spielen.
+  - text: Schildkrötenpanzer und Bananenschalen auf andere Motorradfahrer werfen.
+  - text: Epischer Rap-Battle: _ gegen _.
+  - text: Eine große Tasche voller Schwänze.
+  - text: Das weiche, warme Innere eines unwilligen Schafs.
+  - text: Eine Party auf dem Tian’anmen-Platz schmeißen.
 
 
 black-cards:
@@ -184,5 +191,12 @@ black-cards:
           Schlussfolgerung: _
     draw: 2
     pick: 3
+  - text: Ein weiser Mann sagte: "Es geht immer um Sex, bei allem. Außer bei Sex, da geht es um _."
+  - text: Ich war seltsam stolz, als mein Kind sich zu Weihnachten _ wünschte.
+  - text: Verdammt, ich habe _ im Kinderzimmer vergessen!
+  - text: Ich träume häufig von einem Dreier mit _ und _.
+  - text: Entschuldigung, Herr Wachtmeister. Ich habe das Stopp-Schild übersehen, weil ich mit _ beschäftigt war.
+  - text: Das Date verlief sooo gut. Bis ich entdeckte, dass sie _ zwischen den Zähnen stecken hatte.
+  - text: Das Date verlief sooo gut. Bis er nach zehn Minuten anfing, über _ zu reden.
 
 ...
