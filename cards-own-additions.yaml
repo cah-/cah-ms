@@ -1,6 +1,6 @@
 ---
-name: Eigene Karten
-edition: X1 DE
+name: Eigene Karten und solche aus dem Netz
+edition: X2 DE
 # Game based on "Cards Against Humanity"
 # licensed under CC-BY-NC-SA 2.0
 
@@ -9,11 +9,11 @@ white-cards:
   - text: 50 Shades of Grey.
   - text: Donald Trump. 
   - text: Der SNA-Komplex [sic!].
-  - text: Generalbundesanwalt Harald Range.
+  - text: Generalbundes- anwalt Harald Range.
   - text: Landesverrat.
   - text: ASCII-Pr0n.
   - text: Die Bush-Dynastie.
-  - text: Schlammschlachten auf Wacken.
+  - text: Schlammschlach- ten in Wacken.
   - text: Agent Smith.
   - text: Fensterlose weiße Lieferwagen.
   - text: Tee wegbringen.
@@ -21,9 +21,9 @@ white-cards:
   - text: Sich nach dem Slender-Man umsehen.
   - text: Sheldons Mutter.
   - text: Raumnazis.
-  - text: Jemandem Albanisierer verabrechen.
-  - text: Menschenknochen als Flaschenöffner nutzen.
-  - text: Die Länge von Titeln akademischer Veröffentlichungen.
+  - text: Jemandem Albinisierer verabrechen.
+  - text: Menschenknochen als Flaschen- öffner nutzen.
+  - text: Die Länge von Titeln akade- mischer Ver- öffentlichungen.
   - text: Unerwartet einen Finger im Hintern haben.
   - text: Kunden der Firma Hacking-Team.
   - text: Blackwater-Leibwächter.
@@ -34,7 +34,7 @@ white-cards:
   - text: Jemanden mit warmer Mayo einreiben.
   - text: Der verrückte Youtube-Hitler.
   - text: Angela Merkels vollstes Vertrauen ausgesprochen bekommen.
-  - text: Die Finger wie Mr. Burns aneinanderlegen.
+  - text: Seine Finger wie Mr. Burns aneinanderlegen.
   - text: Poster von Politikern in Kinderzimmern.
   - text: Die Toten aufwecken.
   - text: Die Voodoo-Puppe von Largo LaGrande.
@@ -62,32 +62,611 @@ white-cards:
   - text: Die vier Reiter der Apokalypse.
   - text: Astreine Zerfickung.
   - text: Kreaturen der Finsternis.
-  
+  - text: Mein wertloser Sohn.
+  - text: Die dämliche Fresse meines Vaters.
+  - text: Texas.
+  - text: |
+          "Ich liebe dich" sagen.
+  - text: Dinge aus Hitlers Perspektive sehen.
+  - text: Die gottverdammte Sache!
+  - text: Obamas weiße Hälfte.
+  - text: Obamas schwarze Hälfte.
+  - text: Fisting.
+  - text: Haufenweise Idioten, die ein Kartenspiel spielen, statt wie richtige Menschen miteinander umzugehen.
+    font: 11
+  - text: Unsachgemäße Dinge mit der Unterwäsche der Ex tun, bevor man sie ihr wiedergibst.
+    font: 11
+  - text: Hoffen, dass die Personalabteilung niemals meine IM-Logs zu Gesicht bekommt.
+    font: 12
+  - text: Eine bisexuelle Frau, die Blowjob-Techniken von einem schwulen Kerl lernt.
+    font: 12
+  - text: In den Baumarkt gehen, um Sexspielzeug zu kaufen.
+  - text: Sex mit jemandem haben, der aus schlechten Pornos gelernt hat.
+    font: 12
+  - text: Männlicher Praktikant von Präsidentin Hillary sein.
+  - text: Deine Mutter in einem Domina-Outfit.
+  - text: Vier Schwule, verkleidet als Pandas.
+  - text: Mein Browser-Verlauf.
+  - text: Die kleine nackte Frau unter deinem Schreibtisch.
+  - text: Weibliche Hysterie.
+  - text: Witze von Jan Böhmermann.
+  - text: Recep Tayyip Erdogan.
+  - text: Witze über Erdogan reißen.
+  - text: Das Patriachat.
+  - text: Gender-neutrale Pronomen (benutzen).
+  - text: Auf der roten Welle surfen.
+  - text: Sex in der Erdbeerwoche.
+  - text: Humangenetik missbrauchen.
+  - text: Biologischer Determinismus.
+  - text: Ein Terabyte schwarm- finanzierter Indie-Pornos.
+  - text: Bio-Gleitgel.
+  - text: Dicke Personen in Bademode-Werbung zeigen, um daran zu erinnern, dass auch Übergewichtige Sexobjekte sein wollen.
+    font: 10
+  - text: In der Mittags- pause das Internet nach Nacktbildern heißer Mitarbeiter durchsuchen.
+    font: 11
+  - text: Das dringende Bedürfnis nach einem neuen Schwanz in deiner Pussy, um den letzten zu vergessen.
+    font: 11
+  - text: Die sinnliche Klavier-Hintergrundmusik in Frauenpornos.
+  - text: Jörg Kachelmann dabei erwischen, wie er deine Mutter nimmt. Und deinen Vater. Gleichzeitig.
+    font: 12
+  - text: Musik der Cantina-Band in Endlos-Schleife.
+  - text: Der giftige Plastikgeruch des schwelenden Vaders.
+  - text: Chewbaccas Friseur.
+  - text: Einen schwarzen Trenchcoat im Sommer tragen.
+  - text: Die Droiden, nach denen man sucht.
+  - text: Der Jedi-Code.
+  - text: Ein Keller voller schwitzender Nerds.
+  - text: Explosionen im Weltraum.
+  - text: Luther Blissett.
+  - text: |
+          "Hodor, Hodor, Hodor Hodor Hodor Hodor."
+  - text: Die rote Hochzeit.
+  - text: Erwachsene Männer und Frauen, die sich mit gepolsterten Schwertern prügeln.
+    font: 12
+  - text: Selbstsicher den Ort einer Explosion verlassen, ohne sich umzusehen.
+  - text: Leute, die HTML als Programmsprache bezeichnen.
+  - text: Das Necronomicon rezitieren.
+  - text: Wie eine Brille dich klug statt blind aussehen lässt.
+  - text: Die mit Abstand klügste Person im Raum sein.
+  - text: Qualitäten, die andere Menschen bei Sexualpartnern begehrenswert finden.
+    font: 12
+  - text: Ingenieurs-Porn.
+  - text: Den Plural von 'Apokalypse' benötigen.
+  - text: Die Dinge, die ich während Mario Kart von mir gebe.
+  - text: Eine Google-Bildersuche zutiefst bereuen.
+  - text: Einsame Nerds, die Feminismus hassen.
+  - text: Von hinten sichtbare Gesichts- behaarung.
+  - text: Atomkrieg.
+  - text: Das Ende der Zeit.
+  - text: Godwins Gesetz.
+  - text: Erkennen, dass Wettessen deine einzige Superkraft ist.
+  - text: Die Organe von Obdachlosen ernten.
+  - text: Eine Schwangere, zwischen deren Schenkeln Füß- chen baumeln.
+  - text: Nachbarn mit Vorzügen.
+  - text: Nicht weinen müssen, wenn man Sperma ins Auge bekommt.
+  - text: Regenbogen- farbenes Einhornfleisch.
+  - text: Seine Schulden zahlen wie ein Lannister.
+  - text: Tyrion Lannister.
+  - text: Jon Snow.
+  - text: Joffrey Baratheon.
+  - text: Sex mit Cersei Lannister.
+  - text: Von Peter Dinklage gespielt werden.
+  - text: Hodor, das Game-of-Thrones-Theme summend.
+  - text: Eine Klinge aus valyrischem Stahl.
+  - text: Ein Dildo aus valyrischem Stahl.
+  - text: Fette Leute in einem Konzentrationslager.
+  - text: Glitzer scheißen.
+  - text: An einem 11. September Jenga spielen.
+  - text: Schildkrötenpanzer und Bananen- schalen auf andere Motorradfahrer werfen.
+    font: 12
+  - text: Eine große Tasche voller Schwänze.
+  - text: Das weiche, warme Innere eines wider- spenstigen Schafs.
+  - text: Eine Party auf dem Tian’anmen-Platz schmeißen.
+  - text: Ein romantischer Spaziergang zum Kühlschrank.
+  - text: Ein Norwegischer Burrito.
+  - text: Ein Glückskeks mit einer Wespe drin.
+  - text: Das Safeword vergessen.
+  - text: Mehr Nazis.
+  - text: Noch mehr Nazis.
+  - text: Erotische Geschichten in Brailleschrift.
+  - text: Käse aus Muttermilch.
+  - text: Food Porn.
+  - text: Die Geräusche, die taube Leute beim Sex machen.
+  - text: Ein Lolli mit Anusgeschmack.
+  - text: Zwei Nonnen, die sich um einen Dildo prügeln.
+  - text: Ein toter Stripper in einem großen Kuchen.
+  - text: Eine Mülltonne voller Baby-Schwänze.
+  - text: Zukünftige Porno-Sternchen auf Schulabschlussbällen rekrutieren.
+  - text: Walter Whites Chemie-kenntnisse.
+  - text: Ein Farbiger ohne Vorstrafen-register.
+  - text: Durch das Kratzen eines Mückenstichs zum Orgasmus kommen.
+  - text: Meine irrationale Angst vor Eichhörnchen.
+  - text: Rage-Quitting.
+  - text: Die unsichtbare Universität.
+  - text: Einen Huf in den Arsch bekommen.
+  - text: Einen Fetisch für benutzte Socken haben.
+  - text: 20% cooler werden.
+  - text: Insekten über dem Grill vergasen.
+  - text: Einen Shitler zeichnen.
+  - text: Die 9/11-Flugzeuge als Spielzeug.
+  - text: Obdachlose vor die U-Bahn schubsen.
+  - text: Eine von diesen unglaublich langen Gurken.
+  - text: Muslimische Ziegen-Pornos.
+  - text: Die Unabhängigkeits-erklärung.
+  - text: Ein auf ur- komische Weise gescheiterter Selbstmord-versuch.
+  - text: Die Pünktlichkeit der Deutschen Bahn.
+  - text: Die Person zu meiner Linken.
+  - text: Die Person zu meiner Rechten.
+  - text: Einen Kaktus umarmen.
+  - text: Der Moment, in dem du den Rechtschreibfehler in deinem Tattoo bemerkst.
+  - text: Ein Hitler-Roboter.
+  - text: Eine schwarze Jesusminiatur als Dildo benutzen.
+  - text: Ein Dreier zwischen Prinzessin Leia und zwei Ewoks.
+  - text: Den Zweck der Atemlöcher eines Wals auf verhängnisvolle Weise missverstehen.
+    font: 12
+  - text: Das iranische Atomprogramm.
+  - text: Mahmud Ahmadinedschad.
+  - text: Bei Ebay nach afrikanischen Sklaven suchen.
+  - text: In der Zeit zurückreisen, um mit sich selbst herumzumachen.
+  - text: Ein schwuler Samenbank-Angestellter, der wegen Trinkens während der Arbeit gefeuert wird.
+    font: 11
+  - text: Stacheldrahtzaun mit Speck umwickeln.
+  - text: Erste-Welt-Probleme.
+  - text: Immanuel Kant.
+  - text: Grimms Märchen.
+  - text: Ein Dreier mit Sophie Scholl und Anne Frank.
+  - text: Sich den Mörder von Jo Cox zum Vorbild nehmen.
+  - text: Das Ministerium für digitale Infrastruktur.
+  - text: Mode-Empfehlungen von Joachim Löw.
+  - text: Eine technokratische Diktatur.
+  - text: Homophobie.
+  - text: Heteroflexibel sein.
+  - text: Erkennen, dass Demokratie vielleicht doch keine so gute Idee war.
+  - text: Durch den Turing-Test fallen.
+  - text: Sich für ein paar Sekunden Sorgen wegen des Klimawandels machen.
+  - text: Blutige Laborkittel.
+  - text: Doktoranden, die schon länger am Institut sind als alle anderen Angestellten.
+    font: 12
+  - text: Ein Anthrax-Formular.
+  - text: Ein Element nach sich benannt bekommen.
+  - text: Die Kontrollgruppe.
+  - text: Der Gravitations-linseneffekt.
+  - text: Der Gipfel der Unwahrscheinlichkeit.
+  - text: Richard Dawkins.
+  - text: Die Welt als eindimensionalen Potentialtopf interpretieren.
+  - text: Das Zweikörperproblem auf andere Lebensbereiche übertragen.
+  - text: Kalte Fusion.
+  - text: Der Leidenfrost-Effekt.
+  - text: Die Matrix.
+  - text: Alan Turings letzter Blowjob.
+  - text: Die zahlreichen Vorteile des anglo- amerikanischen Maßsystems.
+  - text: Impfgegner.
+  - text: Comic Sans
+  - text: Wissenschaftliche Ergebnisse in Comic Sans präsentieren. 
+  - text: Der vierte Aggregatzustand.
+  - text: Serielle Monogamie.
+  - text: Zwei leck- geschlagene Fässer voller Atommüll.
+  - text: Eine passende Karte nicht legen können, weil man der Card Czar ist.
+  - text: Sich Speed in den einen und Betäubungsmittel in den anderen Arm spritzen.
+    font: 13
+  - text: Der einfühlsame Fotograf, der meine Frau vögelt.
+  - text: Geleckt werden, während man mit seinem Vater telefoniert.
+  - text: Gegen das Betäubungs- mittelgesetz verstoßen.
+  - text: Ein aufrechter Deutscher sein.
+  - text: Paul, der Bademeister.
+  - text: Claudias Schäferhund.
+  - text: Dinge, von denen man gar nichts wissen möchte.
+  - text: Mit dem Schwert nach Polen ziehen.
+  - text: Taktische Pizza-Schneider mit Laser-Zielführung.
+  - text: Seine Mutter auf Tinder matchen.
+  - text: Eine respektvolle Internet-Diskussion über Rasse und Geschlecht.
+  - text: Genetisch verbesserte Super-Soldaten.
+  - text: Ausschwitz.
+  - text: Heterosexualität vortäuschen.
+  - text: Dem Tumor einen Kosenamen geben.
+  - text: Der 11. September 2001.
+  - text: Ein Rimjob-Tutorial.
+  - text: Franck Ribéry.
+  - text: Ein Schönheitsideal.
+  - text: Rainer Calmund.
+  - text: Sodomie.
+  - text: Sodom und Gomorra.
+  - text: Silvester in Köln.
+  - text: Wichtige Neuigkeiten aus dem Privatleben von Frau Lohfink.
+  - text: Ein trauriger, fetter Drache ohne Freunde.
+  - text: Realistische Gewalt- darstellung.
+  - text: Gewalt, Vulgärsprache, Angst, Drogen, Sex, Diskriminierung und Glücksspiel.
+    font: 11
+  - text: Grenzenloser Sexismus.
+  - text: Einen Butt-Plug 'verschlucken'.
+  - text: Eine Achtjährige ohne Seele.
+  - text: Lesbische Stripper-Ninjas.
+  - text: Der dunklen Seite nachgeben.
+  - text: Pädophile missverstehen.
+  - text: Ein wirklich hübsches Schaf vögeln.
+  - text: Buddha, Jesus, Allah, deine Eltern und den Nikolaus gleichzeit verärgern.
+    font: 12
+  - text: Auf einer Beerdigung Gangnam Style tanzen.
+  - text: Rollstühle stehlen.
+  - text: Pussy Riot.
+  - text: Südländer.
+  - text: Sex mit einer Sockenpuppe.
+  - text: Einen Höhepunkt haben.
+  - text: Rassistsche, schwarze Polizisten, die weiße Frauen erschießen.
+  - text: Die Verfilmung von Trivial Pursuit.
+  - text: Faule Griechen.
+  - text: Daenerys Targaryen.
+  - text: Mark Watney.
+  - text: Auf dem Mars vergessen werden.
+  - text: Mark Watneys Botanik-Skills.
+  - text: Für WinRAR bezahlen.
+  - text: Eine Familienpackung Kondome.
+  - text: Erdogans Ziegen.
+  - text: Ein LARP.
+  - text: Den Darwin Award erhalten.
+  - text: Chemische Kastration.
+  - text: Ein Film von und mit Adam Sandler.
+  - text: Michael Jacksons 'Beat it' während der Samen- spende hören.
+  - text: Die Alexander-Gauland-Stiftung für Integration.
+  - text: Alexander Gauland als Nachbarn haben.
+  - text: Jesus, der ein Kind sterben lässt, weil es nur 998 Likes bekam.
+  - text: Ein Nazi, der sich weigert, braune M&Ms zu essen.
+  - text: Ein Pädophiler, der versehentlich einen Kleinwüchsigen anmacht.
+  - text: Paralympics-Teilnehmer ausbuhen.
+  - text: Eine Hure mit einem Adamsapfel, so groß wie ihre Eier.
+  - text: Eine Kochshow mit Hannibal Lector.
+  - text: Von Gordon Ramsay beleidgt werden.
+  - text: Boaty McBoatface.
+
 
 black-cards:
   - text: _15 looking at things.
   - text: Wie lässt sich Homosexualität heilen?
   - text: Kürzlich erklärte Ronald Pofalla _15 für beendet.
-  - text: Das neue Lied von OPM: Rage against _15.
   - text: |
-          _15: I did it for the lulz.
-  - text: Das Ergebnis der Besprechung: _10 ist leider nicht darstellbar.
-  - text: _12 war bloß eine Nebelkerze für _12.
-  - text: Vertrauen ist gut, _ ist besser.
-  - text: Reden ist Silber, _ ist Gold.
-  - text: Transferhammer: _ zum FC Bayern!
-  - text: Nach Seuchenjahr: St. Pauli versucht sich mit _ vor dem Abstieg zu retten.
-  - text: Wettrüsten im Pott: Der BVB verplichtet _, Schalke verstärkt sich mit _.
+            Das neue Lied von OPM: Rage against _15.
+  - text: |
+            _15:
+            I did it for the lulz.
+  - text: |
+            Das Ergebnis der Besprechung: _15 ist leider nicht darstellbar.
+  - text: _15 war bloß eine Nebelkerze für _15.
+    pick: 2
+  - text: Vertrauen ist gut, _15 ist besser.
+  - text: Reden ist Silber, _8 ist Gold.
+  - text: |
+            Transferhammer: _15 zum FC Bayern!
+  - text: |
+            Nach Seuchen-
+            jahr: St. Pauli versucht sich mit _8 vor dem Abstieg zu retten.
+  - text: |
+            Wettrüsten im Pott: Der BVB verplich-
+            tet _13, Schalke verstärkt sich mit _9.
+    font: 12
+    pick: 2
+  - text: |
+            BILD deckt auf:
+            _15 masturbiert im Büro zu _7.
+    pick: 2
+  - text: |
+          Das merkwürdige Verhalten geschlechtsreifer _15 zur Paarungszeit.
+  - text: Nur _12 ist schneller als Musik von DragonForce.
+  - text: _15 ist für alle da.
+  - text: Herrenüberschuss verhält sich zu Gang Bang wie _15 zu _12.
+    pick: 2
+  - text: _13 ist der fünfte Reiter der Apokalypse.
+  - text: |
+            E.L. James' neues Buch:
+            50 Shades of _15.
+  - text: |
+            Im Leben sind nur zwei Dinge sicher: Der Tod und _11.
+  - text: |
+            Vor meiner Kanzler-
+            kandidatur muss ich jegliche Beweise meiner Beteiligung an _15 vernichten.          
+    font: 11
+  - text: Als Kind haben wir Cowboy und _8 gespielt.
+  - text: |
+            Das Thema beim nächsten Mal: Wie erkläre ich meinem Kind _15?
+  - text: Wenn nichts mehr hilft, kann ich immer noch zu _13 masturbieren.
+  - text: Für meine Seele versprach mir der Teufel _10, aber alles was ich bekam war _15.
+    pick: 2
+  - text: Dank _10 habe ich endlich von _11 zu _12 gewechselt!
+    draw: 2
+    pick: 3
+  - text: Was ist solange lustig, bis es merkwürdig wird?
+  - text: Liebling, Mami und Papi lieben dich sehr, aber anscheinend liebt Mami _10 mehr als Papi.
+  - text: Der Vatikan erkannte eine Statue als Wunder an, deren Augen bluten, wenn _15 in der Nähe ist.
+    font: 11    
+  - text: In John Olivers letzter Show ging es um die Gefahren von _15.
+  - text: |
+          Ein Politiker: "Opfer von _6 sollten das beste aus der Situation machen!"
+  - text: Obwohl in meinem Lebenslauf steht, dass ich bisher "Senior Director of _8 and _8" war, habe ich die neue Stelle bekommen.        
+    font: 10
+    pick: 2
+  - text: Sie bezeichnen sich als Start-Up für _12 mit _12. Das wird nicht gutgehen.
+    font: 12
+    pick: 2
+  - text: Hier ist Bob aus der Buchhaltung. Bitte erklären Sie mir Ihre 1.700-EUR-Rechnung für _11 von Sergios Haus der _14.
+    font: 10
+    pick: 2
+  - text: Ich kann nicht glauben, dass Kinder jetzt schon in der Grundschule _9 lernen.
+    font: 12
+  - text: |
+            Merke: _8 ist keine gute Verhütungs- methode.
+  - text: |
+            Glück gehabt! Bei
+            der Verkehrskon-
+            trolle ist nicht
+            aufgefallen, dass
+            wir _10 im
+            Kofferraum haben.
+    font: 12
+  - text: Gib's zu! In dieser Runde ist mindestens eine Person, mit der du gerne _9 würdest.
+    font: 12
+  - text: _15. Deswegen habe ich geheiratet!
+  - text: Ich und _8? Das ist nur ein Gerücht!
+  - text: Ich hätte _8 niemals mit _15 vertraut machen sollen.
+    pick: 2
+  - text: Captain, es gibt nur einen Weg, die Aliens daran zu hindern, die Erde zu zerstören. Wir müssen ihnen _13 zeigen!
+    font: 10
+  - text: James Bond läuft zu Hochform auf, wenn er _8 mit _13 bekämpft.
+    pick: 2
+  - text: Asexualität ist heilbar. Mit _15!
+  - text: Nymphomanie ist heilbar. Mit _15!
+  - text: Wenn Christian Bale Sexszenen dreht, denkt er heimlich an _15.
+  - text: Wir sollten sicherstellen, dass sich alleinerziehende Mütter nicht zwischen _8 und _8 entscheiden müssen.
+    font: 10
+    pick: 2
+  - text: Familien in ländlichen Gegenden sollten besseren Zugriff auf _6 haben.
+  - text: Was ist die perfekte Art, den Tag zu beenden?
+  - text: Gegen die Un- gleichbezahlung von Männern und Frauen hilft nur _15.
+  - text: _15 ist im Kern eine feministische Angelegenheit.
+  - text: Moderner Feminismus sollte _9 ansprechen.
+  - text: Moderner Sexismus sollte _15 ansprechen.
+  - text: Eine Frau braucht einen Mann wie ein Fisch _7.
+  - text: Um Feminismus wirklich zu verstehen, muss man erstmal _6 verstehen.
+  - text: Frauen sind in Politik und Wirtschaft unterrepräsentiert wegen _8.
+  - text: Im Grunde ist Feminismus die Auffassung, dass Frauen _9 sind.
+  - text: Frauen- und Geschlechterforschung ist das akademische Äquivalent zu _15.
+  - text: |
+            Wenn wir Human-
+            genetik richtig
+            einsetzen, kön-
+            nen wir endlich _5 abschaffen!
+  - text: _9 ist das beste Werkzeug eines Schweizer Taschenmessers.
+  - text: |
+            40% aller Schei-
+            dungen können
+            auf _13 zurückgeführt werden.
+  - text: Um was ging es in deinem ersten erotischen Traum?
+  - text: Wir brauchen eine Quote! Eine Quote für _7.
+  - text: Die geheime Zutat meines Cupcake-Rezepts ist _13.
+  - text: Ich betreibe heimlich ein Tumblr über _15.
+  - text: |
+            Aus Finanzierungs-
+            gründen sind die
+            Fachbereiche für _15 und _15 zusammengelegt worden.
+    font: 10
+    pick: 2
+  - text: |
+            Männern sollte schon in jungen Jahren die Wichtig-
+            keit von _10 beigebracht werden.
+    font: 11
+  - text: | 
+            Frauen sollte schon in jungen Jahren die Wichtigkeit von _15 beigebracht werden.
+    font: 11
+  - text: Viel lieber als phallische Dildos mag ich Dildos in Form von _7.
+  - text: _12 hat ein Gesetz zur Förderung von _15 vorgeschlagen.
+    pick: 2
+  - text: |
+            Unrasierte Beine, dreckige Wohnung und _10: Dinge, um die ich mich nur kümmere, wenn sie jemand zu Gesicht bekommt.
+    font: 10
+  - text: |
+            Neue weiße CaH-Karte: Kim Jong-Un darum bitten, beim nächsten Mal _5 zu hacken.
+    font: 11
+  - text: |
+            Nur _12 ist besser, als
+            von einem Geiger gefingert zu werden.
+  - text: Luke, wer ist dein Vater?
+  - text: Beim Erstellen eines neuen Charakters investiere ich die meisten Punkte in _15.
+    font: 12
+  - text: Laut einem Online-Quiz bin ich _12.
+  - text: Als ausgegrenzte Randgruppe akzeptieren wir jeden. Also außer, du stehst auf _15.
+    font: 12
+  - text: Kinetische Energie lässt sich am besten anhand von _12 und _8 erklären.
+    font: 12
+    pick: 2
+  - text: MacGyver kann Bomben selbst mit _12 entschärfen.
+  - text: Soldat, wieso sind Sie nicht auf Ihrem Posten?
+  - text: Mein neuer Rollen- spiel-Charakter ist so klug wie _6 und so stark wie _15.
+    font: 12
+    pick: 2
+  - text: Ich werde erst Sport treiben, wenn _9 als solcher anerkannt wird.
+  - text: Als Kind wurde ich zum Schulpsycho- logen geschickt, weil ich einen Aufsatz über _14 geschrieben hatte.
+    font: 11
+  - text: Niemand glaubt mir, dass ich gegen _9 allergisch bin.
+  - text: Wozu ist das Internet eigentlich gut?
+  - text: Ich bin vielleicht unsportlich, aber dafür kann ich großartig _6.
+  - text: Regel 34 stimmt immer. Keine Ausnahmen, nicht einmal für _15.
+  - text: Im 24. Jahrhundert werden alle Raum- schiffe mit _15 ausgerüstet sein.
+    font: 12
+  - text: Nicht Videospiele machen Leute gewalttätig. Viel wahrscheinlicher ist _14 die Ursache.
+    font: 12
+  - text: _12 hat angerufen. Er will _9 zurück.
+    pick: 2
+  - text: Die Maslowsche Bedürfnishierarchie sollte um _15 erweitert werden.
+  - text: Verdammt, Kickstarter hat die Schwarm- finanzierung von _5 abgelehnt!
+  - text: Ich habe an der Wunderlampe gerieben, aber statt eines Dschinns erschien _15.
+    font: 12
+  - text: Nur _10 kann uns vor Skynet retten.
+  - text: Das einzige, was _15 entgegensteht, ist _12.
+    pick: 2
+  - text: _10 wird neu aufgelegt, aber diesmal mit _15.
+    pick: 2
+  - text: Ich fürchte mich nur vor zwei Dingen. Atomkrieg und _15.
+  - text: _15. Selbst dafür gibt es einen Fetisch.
+  - text: Wenn es um Politik geht, braucht man eigentlich nur _12 und _15.
+    font: 12
+    pick: 2
+  - text: _14 traut sich meistens nur nachts raus. Meistens.
+  - text: In seinem nächsten Buch wird G.R.R. Martin _12 500 ausführliche Seiten widmen.
+    font: 11
+  - text: Als Daenerys aus den Flammen trat, galt ihr erster Gedanke _15.
+  - text: Der Geist braucht _8 wie das Schwert _7.
+    pick: 2
+  - text: Gäbe es in Westeros Pornos, würden sie hauptsächlich von _8 handeln.
+    font: 12
+  - text: _7 hat den Eisernen Thron mithilfe von _15 gewonnen.
+    pick: 2
+  - text: Wenn König Joffrey Spaß haben möchte, verlangt er nach _15.
+  - text: |
+          Hypothese: _5
+          Experiment: _4
+          Ergebnis: _6.5
+    draw: 2
+    pick: 3
+  - text: |
+            Ein weiser Mann sagte: "Es geht immer um Sex, bei allem. Außer bei Sex, da geht es um _15."
+    font: 12
+  - text: Ich war seltsam stolz, als mein Kind sich zu Weih- nachten _8 wünschte.
+    font: 12
+  - text: Verdammt, ich habe _6 im Kinderzimmer vergessen!
+  - text: Ich träume häufig von einem Dreier mit _11 und _10.
     draw: 1
     pick: 2
-  - text: Bild deckt auf: _ masturbiert im Büro zu _.
-    draw: 1
+  - text: Entschuldigung, Herr Wachtmeister. Ich habe das Stopp-Schild übersehen, weil ich mit _15 beschäftigt war.
+    font: 10
+  - text: Das Date verlief sooo gut! Bis ich entdeckte, dass sie Reste von _8 zwischen den Zähnen stecken hatte.
+    font: 10
+  - text: Das Date verlief sooo gut! Bis er nach zehn Minuten anfing, über _10 zu reden.
+    font: 12
+  - text: 112 hier, was ist Ihr Notfall?
+  - text: Wieso liegt hier eigentlich Stroh rum?
+  - text: Wo kommt das ganze Blut her?
+  - text: Du magst doch _12, da dachten wir, _8 könnte dir gefallen.
+    pick: 2
+  - text: _14 für Dummies.
+  - text: Ich liebe den Geruch von _14 am Morgen.
+  - text: |
+            Was versteckt die Regierung WIRKLICH
+            in Area 51?
+  - text: Nichts drückt "Ich liebe dich" besser aus als _14.
+  - text: Wo siehst du dich in zehn Jahren?
+  - text: Es war kein Selbstmord, sondern ein Unfall. Sie starb durch _9.
+  - text: Hallo, wir kommen von der Kirche des _8. Haben sie einen Moment, um über _11 zu sprechen?
+    font: 11
     pick: 2
   - text: |
-          Das merkwürdige Verhalten geschlechtsreifer _12 zur Paarungszeit.
-  - text: Nur _ ist schneller als Musik von DragonForce.
-  - text: _11 ist für alle da.
-  - text: Herrenüberschuss verhält sich zu Gang Bang wie _ zu _.
-  - text: _11 ist der fünfte Reiter der Apokalypse.
-  - text: E.L. James' neues Buch: 50 Shades of _.
+          Ein Auto: 20k EUR
+          Ein Villa: 5M EUR
+          _4: Unbezahlbar.
+    font: 12
+  - text: Die Flüchtlinge sind Schuld an _8. Jeder weiß, dass sie _8 mögen!
+    pick: 2
+  - text: Der Tod ihres Mannes war hart für sie. Am Ende wandte sie sich für 'Trost' an _7.
+    font: 12
+  - text: Man sagt, Tywin Lannister würde _14 scheißen.
+  - text: Knie nieder, ich bin der Gott des _14.
+  - text: _9 hilft hervorragend gegen einen Kater.
+  - text: Der Angeklagte wurde freige- sprochen, weil _9 streng genommen kein Verbrechen ist.
+    font: 12
+  - text: Wieso die Homo- ehe verbieten, wenn man doch _14 verbieten kann?
+  - text: Mein Partner würde mich verlassen, wenn er etwas über meine Vergangenheit mit _13 herausfinden würde.
+    font: 11
+  - text: _11 ist total über- bewertet.
+  - text: _11 ist absolut unter- bewertet.
+  - text: _6 verbrennt 360 Kalorien pro Stunde.
+  - text: Waffen töten niemandem. _10 tötet!
+  - text: Red Bull verleiht keine Flügel, aber _14 macht das!
+  - text: Amazon hat meine Bestellung vermasselt und mir stattdessen _7 geliefert.
+  - text: Was hat Gott wirklich am siebten Tag getan?
+  - text: Was ist die achte Todsünde?
+  - text: Und der Oskar für _10 geht an _11.
+    pick: 2
+  - text: Heute habe ich Euch alle für eine gemeinsame Runde _8 eingeladen.
+  - text: Die Hunger- Spiele gewinnt man am einfachsten mit _14.
+  - text: Ich würde gerne 50 Shades of Grey mit _7 nachspielen.
+  - text: Wieso bei _6 mitmachen, wenn man doch zu ISIS gehen kann?
+  - text: Wieso bei ISIS mitmachen, wenn man doch zu _8 gehen kann?
+  - text: Als dein Anwalt empfehle ich dir _14.
+  - text: Dir geht es schlecht? Da hilft sicher _9!
+  - text: |
+            Nächstes Mal bei Celebrity Deathmatch: _8 gegen _14.
+    pick: 2
+  - text: Dinge, die man einmal auf einer Beerdigung gemacht haben sollte.
+  - text: Wie hat sie meinen Schwanz genannt?
+  - text: Es tut uns Leid, die Veröffentlichung von _12 verzögert sich auf- grund von _6.
+    font: 12
+    pick: 2
+  - text: |
+            Tolkiens neues Buch: Herr der _14.
+  - text: Hey, sag deiner Mutter bitte Danke für _14.
+  - text: |
+            Ich bin _9 bei Tag
+            und _12 bei Nacht.
+    pick: 2
+  - text: Ohne _9 fahr'n wir zur EM. Ohne ...
+  - text: |
+          Epischer Rap-Battle: _8 gegen _14.
+    pick: 2
+  - text: In Nature erschien eine Studie, nach der _10 in kleinen Dosen gesund sei.
+    font: 12
+  - text: In einem Versuch, die Bedingungen vor dem Urknall nachzustellen, ließ man im LHC _5 und _5 kollidieren.
+    font: 10
+    pick: 2
+  - text: Wie vermutet haben wir einen Zusammenhang zwischen _8 und _13 festgestellt (p <.05).
+    font: 11
+    pick: 2
+  - text: Als ich heute morgen in den Brutkasten schaute, entdeckte ich _7 statt des erwarteten _8.
+    font: 11
+    pick: 2
+  - text: Newton entdeckte die Schwerkraft, nachdem ihm _5 auf den Kopf gefallen war.
+    font: 12
+  - text: Meine erste Veröffentlichung war in einem Journal für _14.
+  - text: Alles, was ich über Wissen- schaft weiß, habe ich von _8 gelernt.
+  - text: In der nächsten TBBT-Folge sieht sich Sheldon _5 gegenüber.
+  - text: Ich war wirklich erstaunt, als ich herausfand, dass das Wurmloch zu _9 führt.
+  - text: _8 ist der Grund, weshalb es zu wenig _5 in der Wissen- schaft gibt.
+    pick: 2
+  - text: Ich glaube nicht, dass man beim LHC erwartete, _10 zu entdecken.
+  - text: Als Schrödinger die Schachtel öffnete, fand er _14.
+  - text: Astronomen schauten aufgeregt zu, als _9 endgültig im schwarzen Loch verschwand.
+    font: 12
+  - text: Kürzlich hat die NASA _8 auf dem Mars nachgewiesen.
+  - text: Wieso sind die Dinosaurier wirklich ausgestorben?
+  - text: Die meisten wissenschaftlichen Modelle sind falsch. Aber einige sind wie _14.
+  - text: Science lehnte mein Paper ab, also schickte ich es an _5.
+  - text: Die Sicherheitsricht- linien im Labor verlangen _8, bevor man _7 macht.
+    font: 11
+  - text: Heute Nacht werden wir Sex haben, und uns anschließend – wenn du möchtest – etwas mit _7 beschäftigen.
+    font: 11
+  - text: In seiner Abschluss- arbeit hat er die Navier-Stokes-Gleichungen auf _7 angewandt.
+    font: 11
+  - text: Wer _10 kontrolliert, kontrolliert die Welt.
+  - text: Was bereitet Tyrion mehr Befriedigung als 1000 lügende Huren?
+  - text: Als Tyrion keinen Ausweg mehr sah, verlangte er ein Götterurteil durch _8.
+  - text: Was beschreibt die Person zu meiner Linken am besten?
+  - text: Was beschreibt die Person zu meiner Rechten am besten?
+
+  - text: Unter den geschmolzen Polarkappen kam _9 zum Vorschein.
+  - text: Meine geliebte Heimat, Land des _14.
+  - text: |
+            "Du hast mein Schwert."
+            "Und meinen Bogen."
+            "Und meine _7."
+    font: 11
+  - text: Ich musste auf die harte Tour lernen, dass man einen trauernden Freund nicht mit _16 aufheitern kann.
+    font: 10
+  - text: Anfangs war _9. Doch dann schuf Gott _14.
+    pick: 2
+  - text: Hier spricht Ihr Captain. Schnallen Sie sich an und bereiten Sie sich auf _10 vor!
+    font: 11
+  - text: Jedes Jahr kommen etwa 450 Menschen durch _8 ums Leben.
+  - text: Wir verhandeln nicht mit _7.
+  - text: MacGyver kann selbst aus _5 und _6 eine Bombe bauen.
+  - text: |
+            Meine neue Mailadresse:
+            _5@_5.com
+    pick: 2
+
 ...
