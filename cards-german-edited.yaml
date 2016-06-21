@@ -424,7 +424,6 @@ black-cards:
   - text: Was hat Vin Diesel zu Abend gegessen?
   - text: Als der Pharao nichts tat, rief Moses eine Plage von _12 herbei.
   - text: Wie halte ich meine Beziehung am Laufen?
-  - text: Was ist am krustigsten?
   - text: Als ich auf LSD war, verwandelte sich _11 in _12.
     pick: 2
   - text: Es heißt, in der JVA Tegel kannst du 200 Zigaretten für _13 eintauschen.
@@ -445,7 +444,6 @@ black-cards:
   - text: Ein romantisches Essen bei Kerzenschein ist unvollständig ohne _10.5.
   - text: Was werde ich aus der Zukunft mitbringen, um alle davon zu überzeugen, dass ich ein mächtiger Zauberer bin?
     font: 10
-  - text: Bob Ross ist hier, um _11.
   - text: Die Klassenfahrt wurde durch _15 völlig ruiniert.
   - text: _15 ist, was Frauen wollen.
   - text: Lieber Dr. Sommer, ich habe Probleme mit _14 und würde dich gerne um Rat bitten.
@@ -486,7 +484,6 @@ black-cards:
   - text: Was gibt es im Himmel tonnenweise?
   - text: Ich habe keine Ahnung mit welchen Waffen der 3. Weltkrieg geführt wird, aber der 4. Weltkrieg wird mit _8 ausgefochten.
     font: 10
-    pick: 2
   - text: Wie findest du todsicher jemanden zum Flachlegen?
   - text: Gerüchte besagen, dass Vladimir Putins Lieblingsessen _15 gefüllt mit _15 ist.
     font: 11
@@ -499,18 +496,18 @@ black-cards:
     pick: 2
   - text: |
            _15:
-           Mit Kindern getestet, von Müttern freigegeben.
+           Mit Kindern getestet, von Müttern empfohlen.
   - text: Wieso kann ich nachts nicht schlafen?
   - text: Was riecht da so?
   - text: Was hilft Obama beim Entspannen?
-  - text: So wird die Welt enden / So wird die Welt enden / Nicht mit einem Knall, sondern mit _16.
+  - text: So wird die Welt enden. Nicht mit einem Knall, sondern mit _16.
     font: 12
   - text: |
            Kommt diese Saison auf dem Broadway:
            _15: Das Musical.
   - text: Wissenschaftler haben kürzlich einen primitiven Stamm entdeckt, der _5 verehrt.
   - text: Doch bevor ich Sie töte, Mr. Bond, muss ich Ihnen _10 zeigen.
-  - text: Studien belegen, dass sich Laborratten 50% schneller durch Teststrecken finden, wenn sie _10 ausgesetzt wurden.
+  - text: Studien belegen, dass sich Laborratten 50% schneller durch Teststrecken bewegen, wenn sie _10 ausgesetzt wurden.
     font: 10
   - text: Wer bildet das nächste Superhelden/Gehilfen-Duo?
     pick: 2
@@ -530,7 +527,7 @@ black-cards:
   - text: Worauf steht Dick Cheney?
   - text: Während seiner meist übersehenen braunen Periode schuf Picasso hunderte Gemälde von _14.
     font: 12
-  - text: Was möchtest du nicht in deinem chinsesischen Essen finden?
+  - text: Was möchtest du nicht in deinem chinesischen Essen finden?
   - text: Ich trinke, um _15 zu vergessen.
   - text: _15. Gib mir fünf, Bruder!
 #  - text: Lorem ipsum _1 dolor sit _1.2 amet
