@@ -132,7 +132,7 @@ black-cards:
           zu _13.
     draw: 3
     pick: 4
-  - text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
+  - text: Der Solidaritäts-zuschlag sollte besser für _6 verwendet werden.
   - text: Je suis _9.
   - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
   - text: |
@@ -159,7 +159,7 @@ black-cards:
   - text: _16 is on a killing spree.
   - text: _16 is a lie.
   - text: |
-          Deutschland morgens um halb zehn: _16.
+          Deutschland, morgens um halb zehn: _16.
   - text: _16. Frauen und Kinder zuerst.
   - text: Mit einem 3D-Drucker würde ich als erstes _10 herstellen.
   - text: |
