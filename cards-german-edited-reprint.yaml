@@ -14,4 +14,17 @@ black-cards:
   - text: Was werde ich aus der Zukunft mitbringen, um alle davon zu überzeugen, dass ich ein mächtiger Zauberer bin?
     font: 10
   - text: Was hat meine letzte Beziehung beendet?
+  - text: |
+           _15:
+           Mit Kindern getestet, von Müttern empfohlen.
+  - text: Studien belegen, dass sich Laborratten 50% schneller durch Teststrecken bewegen, wenn sie _10 ausgesetzt wurden.
+    font: 10
+  - text: So wird die Welt enden. Nicht mit einem Knall, sondern mit _16.
+    font: 12
+  - text: Was möchtest du nicht in deinem chinesischen Essen finden?
+  - text: Ich habe keine Ahnung mit welchen Waffen der 3. Weltkrieg geführt wird, aber der 4. Weltkrieg wird mit _8 ausgefochten.
+    font: 10
+  - text: Was hat meine letzte Beziehung beendet?
+  - text: Was werde ich aus der Zukunft mitbringen, um alle davon zu überzeugen, dass ich ein mächtiger Zauberer bin?
+    font: 10
 ...
