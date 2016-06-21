@@ -133,7 +133,6 @@ black-cards:
     draw: 3
     pick: 4
   - text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
-    pick: 2
   - text: Je suis _9.
   - text: Ohne Pass an der Grenze. Jetzt hilft nur noch _7.5.
   - text: |
@@ -146,14 +145,13 @@ black-cards:
   - text: _16 ... untenrum.
   - text: |
           "Eyjafjallajökull" ist isländisch für _16.
-  - text: Du betrittst den Dungeon, trittst eine Tür ein und stehst vor _16.
+  - text: Du gehst in den Dungeon, trittst eine Tür ein und stehst vor _16.
   - text: _16 ist eines der Weltwunder der Neuzeit.
   - text: _11 hat als Kind Gute-Nacht-Geschichten über _18 vorgelesen bekommen.
     pick: 2
     font: 12
   - text: |
           "Yellow Submarine" rückwärts abgespielt, klingt wie _12.
-  - text: _16. Alles war gut.
   - text: Tausche Getreide gegen _10.
   - text: |
           "Hey Brain, was wollen wir heute Abend machen?" "Das gleiche wie jeden Abend, Pinky. _10."
