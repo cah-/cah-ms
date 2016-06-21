@@ -13,4 +13,6 @@ black-cards:
           Friedhof der _16.
   - text: |
           Deutschland morgens um halb zehn: _16.
+  - text: Du gehst in den Dungeon, trittst eine Tür ein und stehst vor _16.
+  - text: Der Solidaritätszuschlag sollte besser für _6 verwendet werden.
 ...
