@@ -124,7 +124,7 @@ white-cards:
   - text: Erwachsene Männer und Frauen, die sich mit gepolsterten Schwertern prügeln.
     font: 12
   - text: Selbstsicher den Ort einer Explosion verlassen, ohne sich umzusehen.
-  - text: Leute, die HTML als Programmsprache bezeichnen.
+  - text: Leute, die HTML als Programmier-sprache bezeichnen.
   - text: Das Necronomicon rezitieren.
   - text: Wie eine Brille dich klug statt blind aussehen lässt.
   - text: Die mit Abstand klügste Person im Raum sein.
@@ -261,7 +261,7 @@ white-cards:
   - text: Seine Mutter auf Tinder matchen.
   - text: Eine respektvolle Internet-Diskussion über Rasse und Geschlecht.
   - text: Genetisch verbesserte Super-Soldaten.
-  - text: Ausschwitz.
+  - text: Auschwitz.
   - text: Heterosexualität vortäuschen.
   - text: Dem Tumor einen Kosenamen geben.
   - text: Der 11. September 2001.
@@ -284,7 +284,7 @@ white-cards:
   - text: Der dunklen Seite nachgeben.
   - text: Pädophile missverstehen.
   - text: Ein wirklich hübsches Schaf vögeln.
-  - text: Buddha, Jesus, Allah, deine Eltern und den Nikolaus gleichzeit verärgern.
+  - text: Buddha, Jesus, Allah, deine Eltern und den Nikolaus gleichzeitig verärgern.
     font: 12
   - text: Auf einer Beerdigung Gangnam Style tanzen.
   - text: Rollstühle stehlen.
@@ -317,6 +317,49 @@ white-cards:
   - text: Eine Kochshow mit Hannibal Lector.
   - text: Von Gordon Ramsay beleidgt werden.
   - text: Boaty McBoatface.
+  - text: Den Dschihad erklären.
+  - text: Ein Praktikum bei Boko Haram machen.
+  - text: 73 Jungfrauen verlangen.
+  - text: Nur 71 Jungfrauen bekommen.
+  - text: Second-Hand-Erwachsenen-windeln.
+  - text: Gelben Schnee futtern.
+  - text: Waisenkinder auslachen.
+  - text: Den Typen umbringen, der Firefly abgesetzt hat.
+  - text: Sich bei einem Gang Bang als die 7 Zwerge verkleiden.
+  - text: Eine Diskothek in Orlando mit einem Schießstand verwechseln.
+  - text: Ein Kindergarten-Fight-Club.
+  - text: Sein Kind ins Gorilla-Gehege schubsen.
+  - text: Den Berliner Flughafen fertig bauen.
+  - text: Vor einem Festival- Besuch in die Niederlande fahren, um sich keine Gedanken um Dosenpfand machen zu müssen.
+    font: 10
+  - text: Völkermord.
+  - text: Völkermord an den Emojis.
+  - text: Das Militärbudget verzehnfachen.
+  - text: Vladimir Putin mit nacktem Oberkörper.
+  - text: Mit vier Innenverteidigern spielen.
+  - text: Das Brexit-Referendum ignorieren.
+  - text: Das Unerträgliche dulden.
+  - text: Leute in den Suizid treiben.
+  - text: In jeder Hand ein Megafon halten.
+  - text: Nordkoreanische Macht- demonstrationen.
+  - text: Den Aus-nahmezustand ausrufen.
+  - text: Auf ethische Grundregeln pfeifen.
+  - text: Die Unschulds-vermutung.
+  - text: Das Verhältnismäßig-keitsprinzip.
+  - text: Willkürliche Massenverhaftungen.
+  - text: Rechtsfreie Räume.
+  - text: Saubere Folter.
+  - text: George Orwells Dystopie.
+  - text: Feindstrafrecht.
+  - text: Schießbefehle.
+  - text: Tötungs- genehmigungen.
+  - text: Die Befähigung zum Richteramt.
+  - text: Chelsea Manning.
+
+  - text: Eine Josefsehe führen.
+  - text: Bei Abgastests schummeln.
+  - text: Wolfgang Priklopil.
+  - text: Eine Sigmund-Freud-Actionfigur auf dem Nachttisch.
 
 
 black-cards:
@@ -462,7 +505,7 @@ black-cards:
             Unrasierte Beine, dreckige Wohnung und _10: Dinge, um die ich mich nur kümmere, wenn sie jemand zu Gesicht bekommt.
     font: 10
   - text: |
-            Neue weiße CaH-Karte: Kim Jong-Un darum bitten, beim nächsten Mal _5 zu hacken.
+            Neue weiße CaH-Karte: Kim Jong-un darum bitten, beim nächsten Mal _5 zu hacken.
     font: 11
   - text: |
             Nur _12 ist besser, als
@@ -669,4 +712,8 @@ black-cards:
             _5@_5.com
     pick: 2
 
+  - text: Wieso fordern Politiker eigentlich Reisefreiheit für _10?
+  - text: Die Sapir-Whorf-Hypothese besagt, dass _10 _10 formt.
+    pick: 2
+  - text: _10 ist verdammt praktisch.
 ...
