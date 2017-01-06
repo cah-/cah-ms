@@ -1,0 +1,13 @@
+---
+name: Eigene Karten, X2 reprint
+edition: X2 DE
+# Game based on "Cards Against Humanity"
+# licensed under CC-BY-NC-SA 2.0
+
+white-cards:
+  - text: Jemandem Albinisierer verabreichen.
+  - text: Den Aus-nahmezustand ausrufen.
+
+black-cards:
+  - text: Waffen töten niemanden. _10 tötet!
+...
