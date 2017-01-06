@@ -1,0 +1,16 @@
+---
+name: Eigene Karten und solche aus dem Netz
+edition: X3 DE
+# Game based on "Cards Against Humanity"
+# licensed under CC-BY-NC-SA 2.0
+
+white-cards:
+  - text: Foobar
+
+
+
+black-cards:
+  - text: _15 looking at things.
+    font: 11
+    pick: x
+    draw: y
